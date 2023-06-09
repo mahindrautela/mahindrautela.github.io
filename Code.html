@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Abishek_Chandrasekhar</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+  nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  }
+
+  nav li {
+  float: left;
+  }
+
+  nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
+
+  nav li a:hover {
+  background-color: #111;
+  }
+
+  nav .active {
+  background-color: #3498DB;
+        } 
+
+
+  body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .hero-image {
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("title_image.gif"); */
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url("title_image.gif");
+    height: 40%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+   
+  .hero-text button:hover {
+    background-color: #555;
+    color: white;
+  }
+/* Red border */
+hr.new1 {
+  border-top: 1px solid red;
+}
+
+/* Dashed red border */
+hr.new2 {
+  border-top: 2px dashed rgb(241, 14, 14);
+}
+
+/* Dotted red border */
+hr.new3 {
+  border-top: 5px solid blue;
+}
+
+/* Thick red border */
+hr.new4 {
+  border: 2px solid red;
+}
+
+/* Large rounded blue border */
+hr.new5 {
+  border: 4px solid #3498DB;
+}
+  </style>
+
+<div class="hero-image">
+  <div class="hero-text">
+    <h1 style="font-size:30px"><I><a href ="https://github.com/Abishek92/Lorenz_Attractor">Lorenz Attractor</a></I></h1>
+    <p></p>
+  </div>
+</div>
+
+</head>
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-black">
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+    <div class="w3-row-padding">
+    <div class="header">
+        <!-- <h2>Abishek Chandrasekhar</h2> -->
+        </div>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="Professional_Experience.html">Experience</a></li>
+            <li><a href="Academic_Projects.html">Academic Projects</a></li>
+            <li><a class = "active" href="Code.html">Code</a></li>
+            <li><a href = "Skills.html">Tools</a></li>
+
+          </ul>
+        </nav>
+  <!-- The Grid -->
+
+  <div class="w3-twothird w3-animate-opacity w3-animate-delay">
+      <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+        <style>
+        img {
+        width: 100%;
+        height: auto;
+        }
+        </style>
+        <h3><b>Dynamical Systems:</b></h3>
+        Source codes for simulating dynamical systems can be found below.
+  
+        <h4><b><i>Lorenz Attractor</b></i></h4>
+        <p align = "justify">
+        The Lorenz attractor (which is show on the top of this webpage) is a class of dynamical systems that exhibits <a href = "https://en.wikipedia.org/wiki/Chaos_theory">chaotic behaviour</a>. 
+        A small change in initial conditions can lead to large changes in the solutions. This is popularly known as 
+        <a href = "https://en.wikipedia.org/wiki/Butterfly_effect">"the butterfly effect</a>".
+      </p>
+
+      <p align = "justify">
+        The code given <a href = "https://github.com/Abishek92/Lorenz_Attractor"><b>here</b></a> can be run on Matlab/Octave.<br>
+        
+        A 3-D plot of the simulation is shown below. <br>
+        <img src = "Lorenz_attractor.jpg"><br>       
+        </p>
+        
+    
+      <hr class = "new4">
+      <h3><b>Control:</b></h3>
+      Source codes for simulating Control techniques in dynamical systems can be found below.
+      <h4><b><i>Two Car Vehicle Platoon using Adaptive Control</b></i></h4>
+      <p align = "justify">
+      Vehicle Platoons are used in transportation for optimizing flow of traffic. 
+      Current research in autonomous driving also employ the use of vehicle platoons. There are several advanatages such as 
+      increased fuel economy, reduced traffic congestion.
+    </p>
+    <p align = "justify">
+    The Python code given <a href = "https://github.com/Abishek92/Vehicle_Platoon_Simulation"> <b>here</b></a> simulates a two car platoon. The nominal distance between the platoon is maintained through an 
+    adaptive control strategy. In addition to this, a Kalman filter is also implemented in order to reduce sensor noise.
+    </p>
+    <p align = "justify">
+    The simulation was written for a couple of RC cars, where the velocity of the cars are given in mm/sec
+    and the distance between them which is measured through a noisy ultrasonic sensor is given in mm. 
+    The Kalman filter simulation is shown below. <br>
+    <img src="Platoon_kalman.jpeg"><br>
+  
+    </p>
+    <p align = "justify">
+    The simulation showcasing the convergence of the velocity estimate (which is the adaptive part) and the actual input 
+    to the second car is given below. <br>
+    As the estimate of the velocity converges to the actual value of the velocity of the previous car, the estimate achieves a steady state<br>
+    <img src="platoon_adaptive_estimate.jpeg"><br>
+    </p>
+    <p align = "justify">
+      Finally, the plots showing the convergence of the distance between two cars to a constant reference of 200 mm is shown.<br>
+      <img src = "platoon_distance_error.jpeg"><br>
+    </p>
+    <hr class = "new4">
+
+ </div>
+  </div> 
+    <!-- Left Column -->
+    <div class="w3-third w3-animate-opacity w3-animate-delay">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <!-- <img src="formal.jpg" style="width:100%" alt="Avatar"> -->
+          <div class="w3-display-bottomleft w3-container w3-text-blue">
+          </div>
+        </div>
+        <h2 class="w3-text-black w3-padding-16"><i class="fa fa-fw w3-margin-right w3-xxlarge w3-text-blue"></i><b>Abishek Chandrasekhar</b></h2>
+        <div class="w3-container">
+          <p><i class="fa fa-graduation-cap w3-margin-right w3-large w3-text-blue"></i><b>Ph.D. candidate</b></p>
+          <p><i class="fa fa-book w3-margin-right w3-large w3-text-blue"></i><b>Research: Dynamical Systems and Control Theory</b></p>
+          <p><i class="fa fa-institution w3-margin-right w3-large w3-text-blue"></i><a href="https://cps.iisc.ac.in/"><b>Robert Bosch Centre for Cyber-Physical Systems @ IISC</a></b></p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-blue"></i> <a href="mailto:abishek.c@iisc.ac.in"><b>abishek.c@iisc.ac.in</a></b></p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-blue"></i><b>+91-8197505290</b></p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-blue"></i><b>Bangalore, India</b></p>
+          <p><i class="fa fa-arrow-circle-o-down fa-fw w3-margin-right w3-large w3-text-blue"></i><b>Social</b></p>
+          <p></i><a href="mailto:abishekchandrasekhar92@gmail.com"><i class="fa fa-google fa-fw w3-margin-right w3-large w3-text-red"></i></a>
+          <a href="https://www.linkedin.com/in/abishekchandrasekhar/"><i class="fa fa-linkedin-square  fa-fw w3-margin-right w3-large w3-text-blue"></i></a>
+          <a href="https://github.com/Abishek92"><i class="fa fa-github fa-fw w3-margin-right w3-large w3-text-black"></i></a>
+          <a href="https://www.facebook.com/abishek.chandrasekhar"><i class="fa fa-facebook-square fa-fw w3-margin-right w3-large w3-text-blue"></i></a>
+          <a href="https://twitter.com/Abishek_92"><i class="fa fa-twitter fa-fw w3-margin-right w3-large w3-text-blue"></i></a></p>
+         <hr class = "new4">
+        </div>
+      </div><br>
+      
+
+    <!-- End Left Column -->
+    </div>
+
+<!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-grey w3-center w3-margin-top">
+<p></p>
+</footer>
+
+</body>
+</html>
