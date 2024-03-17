@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Visiting PhD Student, Purdue University, 2022 - 2023
+* Ph.D Student, Aerospace Engineering, Indian Institute of Science - Bangalore, 2019 - 2023
+* M.S./M.Tech, Aerospace Engineering, Indian Institute of Space Science and Technology (IIST), Trivandrum, 2016 - 2018
+* B.S./B.Tech, Mechanical Engineering (Hons.), ABES Engineering College (AKTU), 2011 - 2015
 
 Work experience
 ======
@@ -31,15 +32,6 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
