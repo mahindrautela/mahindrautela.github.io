@@ -16,5 +16,5 @@ redirect_from:
 * B.S./B.Tech, Mechanical Engineering (Hons.), ABES Engineering College (AKTU), 2011 - 2015
 
 ## Work experience
-* Postdoctoral Researcher - Los Alamos National Laboratory, July 2023 - Present
-* Project Engineer - Indian Institute of Technology (IIT) Kanpur, Aug 2018 - Dec. 2018
+* Postdoctoral Researcher - Adaptive ML team (Applied Electrodynamics group), Physical Sciences Division at Los Alamos National Laboratory, July 2023 - Present
+* Project Engineer - SMSS Lab, Mechanical Engineering, Indian Institute of Technology (IIT) Kanpur, Aug 2018 - Dec. 2018
