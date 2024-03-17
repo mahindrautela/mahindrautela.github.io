@@ -12,7 +12,7 @@ author_profile: true
 ## Journal articles
 1. Monaco, E., **Rautela, M.**, Gopalakrishnan, S. and Ricci, F., 2024. Machine learning algorithms for delaminations detection on composites panels by wave propagation signals analysis: Review, experiences and results. Progress in Aerospace Sciences, 146, p.100994.
 
-   {paper | arxiv | code | data | video}
+   {paper, arxiv , code , data , video}
 2. **Rautela, M.**, Mirfarah, M., Silva, C.E., Dyke, S., Maghareh, A. and Gopalakrishnan, S., 2023. Real-time rapid leakage estimation for deep space habitats using exponentially-weighted adaptively-refined search. Acta Astronautica, 203, pp.385-391.
 
    {paper | arxiv | code | data | video}
