@@ -18,3 +18,20 @@ redirect_from:
 ## Work experience
 * Postdoctoral Researcher - Adaptive ML team (Applied Electrodynamics group), Physical Sciences Division at Los Alamos National Laboratory, July 2023 - Present
 * Project Engineer - SMSS Lab, Mechanical Engineering, Indian Institute of Technology (IIT) Kanpur, Aug 2018 - Dec. 2018
+
+## Awards, honors and recognitions
+* Selected to participate in the US-India collaboration event at the NSF headquarters during PM's state visit to the US. Met with Mr. Modi and Dr. Jill Biden
+  (First Lady): 2023
+* Research is highlighted as a top cited article in Ultrasonics journal (Elsevier): 2023
+* Recipient of Overseas Visiting Doctoral Fellowship (OVDF) from SERB-DST, Government of India. A merit based competitive fellowship to attend visiting doctoral
+  program at Purdue University: 2022-2023
+* Second best poster presentation award for conference paper, organized by Liquid Propulsion System Center (ISRO) & Aeronautical Society of India: 2017
+* Gold and Silver Medal for Excellence in Academics during undergrad: 2014, 2015
+
+## Roles and responsibilites (Reviewer)
+* SAGE Publishing group: Structural Health Monitoring (SHM)
+* Institute of Physics:  Smart Materials & Structures (SMS), Measurement Science & Technology
+* Elsevier: Mechanical Systems and Signal Processing (MSSP), International Journal of Adhesion & Adhesives (IJAA), Engineering Structures
+* ASME:  Journal of Non-destructive Evaluation (JNDE)
+* Springer: Transactions of the Indian National Academy of Engineers (INAE)
+
