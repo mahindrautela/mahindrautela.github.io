@@ -16,9 +16,9 @@ Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory. My 
 I completed my Ph.D. in 2023 at Indian Institute of Science and Purdue University (Visiting student) under the supervision of Prof. S. Gopalakrishan and Prof. S. Dyke. Before that, I have worked for Indian Institute of Technology, Kanpur as a project engineer. I completed my masters in 2018 from Indian Institute of Space, Science and Technology. Here is a recent copy of my CV.
 
 I have worked on scientific machine learning, robotics and its applications on complex systems like 
-* Aerospace structures,
-* Particle accelerators,
-* Space habitats,
+* Aerospace structures
+* Particle accelerators
+* Space habitats
 * High-pressure pipe systems
 
 Towards this direction, I was involved in solving forward and inverse problems related to computational and applied mechanics.
