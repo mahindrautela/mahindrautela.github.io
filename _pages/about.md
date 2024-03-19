@@ -11,9 +11,9 @@ Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory. My 
 * Generative AI
 * Uncertainity quantification
 * Explainable and Trustworthy AI
-* Adaptive optimization like Bayesian.
+* Adaptive optimization like Bayesian approaches.
 
-I completed my Ph.D. in 2023 at Indian Institute of Science and Purdue University (Visiting student) under the supervision of Prof. S. Gopalakrishan and Prof. S. Dyke. Before that, I have worked for Indian Institute of Technology, Kanpur as a project engineer. I completed my masters in 2018 from Indian Institute of Space, Science and Technology. Here is a recent copy of my CV.
+I completed my Ph.D. in 2023 at Indian Institute of Science and Purdue University (Visiting student) under the supervision of Prof. S. Gopalakrishan and Prof. S. Dyke. Before that, I have worked for Indian Institute of Technology, Kanpur as a project engineer. I completed my masters in 2018 from Indian Institute of Space, Science and Technology. Here is a recent copy of my [CV](cv.pdf).
 
 I have worked on scientific machine learning, robotics and its applications on complex systems like 
 * Aerospace structures
