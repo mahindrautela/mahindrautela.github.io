@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## Educational background
 * Visiting PhD Student, Purdue University, 2022 - 2023
 * Ph.D Student, Aerospace Engineering, Indian Institute of Science - Bangalore, 2019 - 2023
 * M.S./M.Tech, Aerospace Engineering, Indian Institute of Space Science and Technology (IIST), Trivandrum, 2016 - 2018
@@ -20,11 +20,9 @@ redirect_from:
 * Project Engineer - SMSS Lab, Mechanical Engineering, Indian Institute of Technology (IIT) Kanpur, Aug 2018 - Dec. 2018
 
 ## Awards, honors and recognitions
-* Selected to participate in the US-India collaboration event at the NSF headquarters during PM's state visit to the US. Met with Mr. Modi and Dr. Jill Biden
-  (First Lady): 2023
+* Selected to participate in the US-India collaboration event at the NSF headquarters during PM's state visit to the US. Met with Mr. Modi and Dr. Jill Biden (First Lady): 2023
 * Research is highlighted as a top cited article in Ultrasonics journal (Elsevier): 2023
-* Recipient of Overseas Visiting Doctoral Fellowship (OVDF) from SERB-DST, Government of India. A merit based competitive fellowship to attend visiting doctoral
-  program at Purdue University: 2022-2023
+* Recipient of Overseas Visiting Doctoral Fellowship (OVDF) from SERB-DST, Government of India. A merit based competitive fellowship to attend visiting doctoral program at Purdue University: 2022-2023
 * Second best poster presentation award for conference paper, organized by Liquid Propulsion System Center (ISRO) & Aeronautical Society of India: 2017
 * Gold and Silver Medal for Excellence in Academics during undergrad: 2014, 2015
 
