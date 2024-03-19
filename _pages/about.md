@@ -18,6 +18,6 @@ My general research is centered around *scientific machine learning* for complex
 Towards this direction, I was involved in solving forward and inverse problems related to computational and applied mechanics and electromagnetism. I have applied scientific ML in the following scientific domains
 * General partial differential equations
 * Aerospace structures (Structural Health Monitoring, Wave Propagation analysis)
-* Particle accelerators (Accelerator physics)
-* Space habitats (Safety and resilience of concept space habitats)
+* Particle accelerators (Accelerator physics, system identification)
+* Space habitats (Safety, resilience and cyber-physical testing)
 * High-pressure pipe systems (robotics for pipe health monitoring)
