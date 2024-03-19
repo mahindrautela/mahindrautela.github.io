@@ -20,7 +20,7 @@ author_profile: true
 ### Composite material generation/discovery
 
 ## Safety of space habitats (complex systems)
-### Leakage estimation in concept space habitats
+### Leakage estimation in concept space habitats/pressurized habitat systems
 
 ## Accelerator physics
 ### Charged particle dynamics in accelerators
