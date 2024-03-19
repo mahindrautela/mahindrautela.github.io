@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory. I have completed my Ph.D. in 2023 at *Indian Institute of Science* and *Purdue University* (Visiting student) under the supervision of [Prof. S. Gopalakrishan](https://scholar.google.com/citations?user=XLLZjaUAAAAJ&hl=en) and [Prof. S. Dyke](https://scholar.google.com/citations?user=d9f_YvcAAAAJ&hl=en). Before that, I have worked as a project engineer in Mechanical Engineering, Indian Institute of Technology, Kanpur. I completed my masters in 2018 from Indian Institute of Space, Science and Technology. More about my [bio/cv](https://mahindrautela.github.io/cv/).
+Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory. I have completed my Ph.D. in 2023 at the *Indian Institute of Science* and *Purdue University* (Visiting student) under the supervision of [Prof. S. Gopalakrishan](https://scholar.google.com/citations?user=XLLZjaUAAAAJ&hl=en) and [Prof. S. Dyke](https://scholar.google.com/citations?user=d9f_YvcAAAAJ&hl=en). Before that, I worked as a project engineer () in the department of mechanical engineering at the Indian Institute of Technology, Kanpur. I completed my master's in 2018 from the Indian Institute of Space, Science and Technology. More about my [bio/cv](https://mahindrautela.github.io/cv/).
 
-My general research is centered around *scientific machine learning* for complex systems with core focus on the the following techniques
+My general research is centered around *scientific machine learning* for complex systems with a core focus on the following techniques
 * Generative AI
-* Uncertainity quantification
+* Uncertainty quantification
 * Explainable and Trustworthy AI
 * Adaptive optimization like Bayesian approaches.
 
@@ -19,5 +19,5 @@ Towards this direction, I was involved in solving forward and inverse problems r
 * General partial differential equations
 * Aerospace structures (Structural Health Monitoring, Wave Propagation analysis)
 * Particle accelerators (Accelerator physics, system identification)
-* Space habitats (Safety, resilience and cyber-physical testing)
+* Space habitats (Safety, resilience, and cyber-physical testing)
 * High-pressure pipe systems (robotics for pipe health monitoring)
