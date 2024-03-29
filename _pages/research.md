@@ -22,6 +22,6 @@ author_profile: true
 ## Safety of space habitats
 * Leakage estimation in concept space habitats/pressurized habitat systems using adaptive optimization.
 
-## Accelerator physics
+## Particle accelerators
 * Coupled deep generator and LSTM forecaster for charged particle dynamics in accelerators.
 * Coupled deep generator and Bayesian neural network for accelerator system identification with UQ.
