@@ -18,6 +18,7 @@ redirect_from:
 ## Work experience
 * Postdoctoral Researcher - Adaptive ML team (Applied Electrodynamics group), Accelerator Operations and Technology (AOT), Physical Sciences Division at Los Alamos National Laboratory, July 2023 - Present
 * Project Engineer - SMSS Lab, Mechanical Engineering, Indian Institute of Technology (IIT) Kanpur, Aug 2018 - Dec. 2018
+* Design Engineer - PEB, Richa Industries Ltd., June 2015 - July 2016
 
 ## Awards, honors and recognitions
 * Selected to participate in the US-India collaboration event at the NSF headquarters during PM's state visit to the US. Met with Mr. Modi and Dr. Jill Biden (First Lady): 2023
