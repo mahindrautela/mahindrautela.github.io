@@ -34,4 +34,4 @@ redirect_from:
 * ASME:  Journal of Non-destructive Evaluation (JNDE)
 * Springer: Transactions of the Indian National Academy of Engineers (INAE)
 
-A more detailed CV is available [here](https://drive.google.com/file/d/1rTvdGQsgDmTZJnN-wcGGGuutKXEUAF0P/view?usp=sharing).
+A more detailed CV is available [here](https://drive.google.com/file/d/1wC4rZOcU8OJLiEbeWwLaN8a0WN3eg1dc/view?usp=sharing).
