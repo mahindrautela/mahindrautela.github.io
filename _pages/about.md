@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+## About me
 Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory. I have completed my Ph.D. in 2023 at the *Indian Institute of Science* and *Purdue University* (Visiting student) under the supervision of [Prof. S. Gopalakrishan](https://scholar.google.com/citations?user=XLLZjaUAAAAJ&hl=en) and [Prof. S. Dyke](https://scholar.google.com/citations?user=d9f_YvcAAAAJ&hl=en). Before that, I worked as a project engineer in the department of mechanical engineering at the Indian Institute of Technology, Kanpur. I completed my master's in 2018 from the Indian Institute of Space, Science and Technology. More about my [bio/cv](https://mahindrautela.github.io/cv/). 
 
 At LANL, I am currently working on solving forward and inverse problems related to electrodynamics in particle accelerators. I am deploying generative AI, Bayesian approaches and their combinations for spatiotemporal dynamics (forward) as well as system identification (inverse).
