@@ -14,3 +14,7 @@ At LANL, I am currently working on solving forward and inverse problems related 
 My general research is centered around *scientific machine learning* for complex systems with a core focus on Generative AI, Uncertainty quantification, Explainable and Trustworthy AI and Adaptive optimization like Bayesian approaches. Towards this direction, I was involved in solving forward and inverse problems related to computational and applied mechanics and electromagnetism. 
 
 I have applied scientific ML methods in the following scientific domains like general partial differential equations, aerospace structures (structural health monitoring, wave propagation analysis), material informatics (material property estimation, discovery and design), particle accelerators (Accelerator physics, system identification), space habitats (Safety, resilience, and cyber-physical testing), high-pressure pipe systems (robotics for pipe health monitoring).
+
+## News
+* March 24, 2024: BOPINN paper is accepted for IEEE CAI 2024. Read about it [here](https://arxiv.org/abs/2312.14064).
+* March 18, 2024: CLARM paper is available on arxiv. Learn more about it [here](https://arxiv.org/abs/2403.13858).
