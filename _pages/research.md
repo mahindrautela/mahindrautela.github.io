@@ -23,5 +23,5 @@ author_profile: true
 * Leakage estimation in concept space habitats/pressurized habitat systems using adaptive optimization.
 
 ## Accelerator physics
-* Coupled deep generator and LSTM forecaster for Charged particle dynamics in accelerators.
+* Coupled deep generator and LSTM forecaster for charged particle dynamics in accelerators.
 * Coupled deep generator and Bayesian neural network for accelerator system identification with UQ.
