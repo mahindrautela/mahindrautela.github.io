@@ -19,7 +19,7 @@ author_profile: true
 * Composite material property estimation
 * Composite material generation/discovery
 
-## Safety of space habitats (complex systems)
+## Safety of space habitats
 * Leakage estimation in concept space habitats/pressurized habitat systems
 
 ## Accelerator physics
