@@ -8,7 +8,7 @@ author_profile: true
 ## Structural health monitoring
 * Out-of-distribution detection/Anomaly detection in aerospace composites.
 * Deep variational filtering for temperature effects in guided wave structural health monitoring
-* Physical-knowledge assisted structural health monitoring
+* Physical-knowledge assisted ML for structural health monitoring.
 * Supervised DL for guided wave SHM
 
 ## Wave propagation analysis and general PDEs
@@ -16,12 +16,12 @@ author_profile: true
 * Bayesian-optimized PINNs for parameter estimation
 
 ## Material informatics
-* Composite material property estimation
-* Composite material generation/discovery
+* Composite material property estimation using supervised DL.
+* Composite material generation/discovery using generative AI.
 
 ## Safety of space habitats
-* Leakage estimation in concept space habitats/pressurized habitat systems
+* Leakage estimation in concept space habitats/pressurized habitat systems using adaptive optimization.
 
 ## Accelerator physics
-* Charged particle dynamics in accelerators
-* Accelerator system identification
+* Coupled deep generator and LSTM forecaster for Charged particle dynamics in accelerators.
+* Coupled deep generator and Bayesian neural network for accelerator system identification with UQ.
