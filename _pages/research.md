@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research projects
+## <u>Research projects</u>
 ## Particle accelerators
 * Coupled deep generator and LSTM forecaster for charged particle dynamics in accelerators.
 * Coupled deep generator and Bayesian neural network for accelerator system identification with UQ.
