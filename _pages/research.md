@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+## Research projects
+## Particle accelerators
+* Coupled deep generator and LSTM forecaster for charged particle dynamics in accelerators.
+* Coupled deep generator and Bayesian neural network for accelerator system identification with UQ.
+  
 ## Structural health monitoring
 * Out-of-distribution detection/Anomaly detection in aerospace composites.
 * Deep variational filtering for temperature effects in guided wave structural health monitoring
@@ -21,7 +26,3 @@ author_profile: true
 
 ## Safety of space habitats
 * Leakage estimation in concept space habitats/pressurized habitat systems using adaptive optimization.
-
-## Particle accelerators
-* Coupled deep generator and LSTM forecaster for charged particle dynamics in accelerators.
-* Coupled deep generator and Bayesian neural network for accelerator system identification with UQ.
