@@ -9,7 +9,7 @@ author_profile: true
 ## 1. Particle accelerators
 * Coupled deep generator and LSTM forecaster for charged particle dynamics in accelerators.
 <p align="center">
-  <img src="images/clarm_lansce.png" width="450" height="260" />
+  <img src="clarm_lansce.png" width="450" height="260" />
 </p>
 * Coupled deep generator and Bayesian neural network for accelerator system identification with UQ.
   
