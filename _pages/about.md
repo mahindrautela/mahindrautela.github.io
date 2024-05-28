@@ -11,7 +11,7 @@ Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory, US.
 
 At LANL, I am currently working on solving both forward and inverse spatiotemporal dynamical systems, ex: particle accelerators. I am also looking into uncertainity analysis and quantification for such system. I am formulating scientific ML techniques on the intersection of generative models, Bayesian formulations and explainable and trustworthy AI.
 
-I have applied scientific ML methods in the following scientific domains like general partial differential equations, aerospace structures (structural health monitoring, wave propagation analysis), material informatics (material property estimation, discovery and design), particle accelerators (accelerator physics, system identification), space habitats (safety, resilience, and cyber-physical testing), high-pressure pipe systems (robotics for pipe health monitoring). More about my research projects is available [here](https://mahindrautela.github.io/research/).
+I have applied scientific ML methods for general partial differential equations, aerospace structures (structural health monitoring, wave propagation analysis), material informatics (material property estimation, discovery and design), particle accelerators (accelerator physics, system identification), space habitats (safety, resilience, and cyber-physical testing), high-pressure pipe systems (robotics for pipe health monitoring). More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
 ## News
 * May 28, 2024: Two papers are presented at IPAC'24 conference, Nashville. Learn more about them [1](https://doi.org/10.18429/JACoW-IPAC2024-MOPS74), [2](https://doi.org/10.18429/JACoW-IPAC2024-MOPS74).
