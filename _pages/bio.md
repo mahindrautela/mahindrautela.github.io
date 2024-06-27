@@ -30,6 +30,7 @@ redirect_from:
 
 ## Roles and responsibilites (Reviewer)
 * SAGE Publishing group: Structural Health Monitoring (SHM)
+* Nature: Scientific Reports
 * Institute of Physics:  Smart Materials & Structures (SMS), Measurement Science & Technology
 * Elsevier: Mechanical Systems and Signal Processing (MSSP), International Journal of Adhesion & Adhesives (IJAA), Engineering Structures
 * ASME:  Journal of Non-destructive Evaluation (JNDE)
