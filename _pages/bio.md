@@ -21,6 +21,7 @@ redirect_from:
 * Design Engineer - PEB, Richa Industries Ltd., June 2015 - July 2016
 
 ## Awards, honors and recognitions
+* Received "Prof. Chintakindi V Joga Rao Medal" 🏅 for my PhD thesis (Best Thesis) from the Indian Institute of Science (IISc): June 2024.
 * Selected to participate in the US-India collaboration event at the NSF headquarters during PM's state visit to the US. Met with Mr. Modi and Dr. Jill Biden (First Lady): 2023 {[Link1](https://www.purdue.edu/india/features/2023-06-26-purdue-fellows-participate-in-event-with-prime-minister-modi-at-the-nsf.php), [Link 2](https://www.purdue.edu/newsroom/releases/2023/Q2/purdue-organizes-inaugural-meeting-of-the-u.s-india-semiconductor-collaborative-in-washington-d.c-during-state-visit-by-indias-prime-minister-modi.html)}
 * Research is highlighted as a top cited article in Ultrasonics journal (Elsevier): 2023 {[Link](https://www.sciencedirect.com/journal/ultrasonics)}
 * Recipient of Overseas Visiting Doctoral Fellowship (OVDF) from SERB-DST, Government of India. A merit based competitive fellowship to attend visiting doctoral program at Purdue University: 2022-2023 {[Link](https://www.serbonline.in/SERB/ovdf)}
