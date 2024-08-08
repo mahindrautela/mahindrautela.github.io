@@ -14,7 +14,7 @@ At LANL, I am currently working on solving both forward and inverse spatiotempor
 I have applied scientific ML methods for general partial differential equations, aerospace structures (structural health monitoring, wave propagation analysis), material informatics (material property estimation, discovery and design), particle accelerators (accelerator physics, system identification), space habitats (safety, resilience, and cyber-physical testing), high-pressure pipe systems (robotics for pipe health monitoring). More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
 ## News
-* July 30, 2024: CLARM paper is accepted for publication in Nature Scientific Reports. Arxiv version [here](https://www.nature.com/articles/s41598-024-68944-0).
+* July 30, 2024: CLARM paper is accepted for publication in Nature Scientific Reports [here](https://www.nature.com/articles/s41598-024-68944-0).
 * June 24, 2024: Received "Prof. Chintakindi V Joga Rao Medal" 🏅 for my PhD thesis (Best Thesis) from the Indian Institute of Science (IISc) .
 * May 28, 2024: Two papers are presented at IPAC'24 conference, Nashville. Learn more about them [1](https://arxiv.org/abs/2406.01535), [2](https://arxiv.org/abs/2406.01532).
 * March 24, 2024: BOPINN paper is accepted for IEEE CAI 2024. Read about it [here](https://arxiv.org/abs/2312.14064).
