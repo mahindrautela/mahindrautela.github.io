@@ -11,8 +11,11 @@ author_profile: true
 * We investigate different aspects of the problem: estimating forward beam dynamics, inverting the beam dynamics, parameter estimation and control with UQ.
 * In [Paper-1](https://www.nature.com/articles/s41598-024-68944-0), we propose two-step unsupervised deep learning framework named as Conditional Latent Autoregressive Recurrent Model (CLARM) for learning the forward spatiotemporal dynamics. The model can generate phase space at various accelerator modules by sampling and decoding the structured latent space representation. The model also forecasts future states (downstream states) of charged particles from past states (upstream states). More about it on the [project page](https://github.com/lanl/clarm).
 
-<img src="../images/clarm_lansce.png" alt="Alt text" width="600" height="400" style="display: block; margin-left: auto; margin-right: auto;"/>
-  
+<p align="center">
+  <img src="../images/clarm_lansce.png" width="450" height="260" />
+</p>
+
+
 ## 2. Structural health monitoring
 * Out-of-distribution detection/Anomaly detection in aerospace composites.
 * Deep variational filtering for temperature effects in guided wave structural health monitoring
