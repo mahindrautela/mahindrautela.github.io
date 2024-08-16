@@ -15,7 +15,7 @@ author_profile: true
   <img src="../images/clarm_lansce.png" width="450" height="260" />
 </p>
 
-* In [Paper-2](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the inverse problem of predicting 6D phase space projections across all upstream accelerating sections based on single or multiple downstream phase space measurements as inputs. The proposed model also captures the aleatoric uncertainty of the high-dimensional input data within the latent space. This uncertainty, which reflects potential uncertain measurements at a given module, is propagated through the LSTM to estimate uncertainty bounds for all upstream predictions, demonstrating the robustness of the LSTM against in-distribution variations in the input data.
+* In [Paper-2](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the inverse problem of predicting 6D phase space projections across all upstream accelerating sections based on single or multiple downstream phase space measurements as inputs. The proposed model also captures the aleatoric uncertainty of the high-dimensional input data within the latent space. The uncertainity is propagated in the latent space through the LSTM to estimate the bounds for all upstream predictions, demonstrating the robustness of the model against in-distribution variations in the input data.
 
   
 ## 2. Structural health monitoring
