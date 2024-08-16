@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## <ins>Research projects</ins>
-## 1. Particle accelerators
-* Coupled deep generator and LSTM forecaster for charged particle dynamics in accelerators.
-* Coupled deep generator and Bayesian neural network for accelerator system identification with UQ.
+## 1. Charged particle beam dynamics in particle accelerators
+* 6D phase space(x,y,x,px,py,pz) of charged particle bunches evolves under the influence of EM fields along the accelerator. The problem can be thought of as a spatiotemporal dynamical sytem, where the system parameters (like amplitude, phase of RF cavity, magnet strenth, etc.) modulates a charged particle beam. The system has uncertainties in the governing parameters as well as initial distribution of charged particles. The problem is challenging due to uncertainity, high-dimensional parameter space, limited measurements of the beam etc.
+* We investigate different aspects of the problem: estimating forward beam dynamics, inverting the beam dynamics, parameter estimation and control with UQ.
   
 ## 2. Structural health monitoring
 * Out-of-distribution detection/Anomaly detection in aerospace composites.
