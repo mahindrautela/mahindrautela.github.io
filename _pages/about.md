@@ -13,7 +13,7 @@ I have applied scientific ML methods for general partial differential equations,
 
 At LANL, I am currently working on 
 * Solving both forward and inverse spatiotemporal dynamical systems, ex: particle accelerators and plasma physics.
-* Uncertainity analysis and quantification for such system.
+* Uncertainity analysis and quantification for spatiotemporal dynamical system.
 * Generative models, Bayesian formulations and explainable and trustworthy AI.
 
 ## News
