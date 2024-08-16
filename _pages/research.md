@@ -26,3 +26,6 @@ author_profile: true
 
 ## 5. Safety of space habitats
 * Leakage estimation in concept space habitats/pressurized habitat systems using adaptive optimization.
+
+## 6. Robotics
+* Pipe health monitoring robot
