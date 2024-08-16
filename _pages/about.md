@@ -16,7 +16,7 @@ At **LANL**, I am currently working on
 * Uncertainity analysis and quantification for spatiotemporal dynamical system.
 * Generative models, Bayesian formulations and explainable and trustworthy AI.
 
-Beyond research, I enjoy staying active through cricket, football, strength training, and running. These activities help me maintain physical fitness and mental clarity, balancing the demands of my academic work. I also have a passion for outdoor adventures, like hiking and cycling, which allow me to recharge and gain new perspectives. Staying active and connected with nature keeps me energized and ready for research challenges.
+Beyond research, I enjoy staying active through football, cricket, strength training, and running. These activities help me maintain physical fitness and mental clarity, balancing the demands of my academic work. I also have a passion for outdoor adventures, like hiking and cycling, which allow me to recharge and gain new perspectives. Staying active and connected with nature keeps me energized and ready for research challenges.
 
 ## News
 * Aug 15, 2024: rLEM paper is available on arxiv. [here](https://arxiv.org/abs/2408.07847).
