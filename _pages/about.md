@@ -11,7 +11,7 @@ Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory, US.
 
 I have applied scientific ML methods for general **PDEs**, aerospace structures (**structural health monitoring**, **wave propagation analysis**), **material informatics** (material property estimation, discovery and design), particle accelerators, space habitats (**safety, resilience, and cyber-physical testing**), high-pressure pipe systems (**robotics** for pipe health monitoring). More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
-At LANL, I am currently working on 
+At **LANL**, I am currently working on 
 * Solving both forward and inverse spatiotemporal dynamical systems, ex: particle accelerators and plasma physics.
 * Uncertainity analysis and quantification for spatiotemporal dynamical system.
 * Generative models, Bayesian formulations and explainable and trustworthy AI.
