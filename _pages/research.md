@@ -45,7 +45,7 @@ author_profile: true
 
 ## 5. Safety of space habitats
 * Leakage estimation in concept space habitats/pressurized habitat systems using adaptive optimization: Long-term extraterrestrial habitats must operate under continuous disruptive conditions arising from extreme environments like meteoroid impacts, extreme temperature fluctuations, galactic cosmic rays, destructive dust, and seismic events. Loss of air or atmospheric leakage from a habitat poses safety challenges that demand proper attention. Such leakage may arise from micro-meteoroid impacts, crack growth, bolt/rivet loosening, and seal deterioration. Leakage estimation in deep space habitats is posed as an inverse problem. A forward pressure-based dynamical model is formulated for atmospheric leakage. Experiments are performed on a small-scaled pressure chamber where different leakage scenarios are emulated and corresponding pressure values are measured. An exponentially-weighted adaptivelyrefined search (EWARS) algorithm is developed and validated for the inverse problem of real-time leakage estimation.
-* 
+
 <p align="center">
   <img src="../images/acta.png" width="450" height="260" />
 </p>
