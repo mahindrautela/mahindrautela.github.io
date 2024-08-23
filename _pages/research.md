@@ -21,7 +21,9 @@ author_profile: true
 ## Structural health monitoring
 1. Out-of-distribution detection/Anomaly detection in aerospace composites: Collecting datasets accommodating all possible damage scenarios is cumbersome, costly, and inaccessible for aerospace applications. In this paper, we have proposed two different self-supervised representation learning approaches to learn the distribution of baseline signals. The trained self-supervised learner is used for delamination prediction with an anomaly detection philosophy. We metholdogies like autoencoders, variational autoencoders, PCA-SVM, ICA-SVM are employed.
 
-2. 
+<p align="center">
+  <img src="../images/clarm_lansce.png" width="450" height="260" />
+</p>
   
 * Deep variational filtering for temperature effects in guided wave structural health monitoring
 * Physical-knowledge assisted ML for structural health monitoring.
