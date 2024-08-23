@@ -51,7 +51,7 @@ scenarios are emulated and corresponding pressure values are measured. An expone
 of constant and variable leaks with accuracy.
 
 <p align="center">
-  <img src="../images/acta.png" width="450" height="320" />
+  <img src="../images/acta.png" width="450" height="260" />
 </p>
 
 ## 6. Robotics
