@@ -30,8 +30,7 @@ author_profile: true
 * Supervised DL for guided wave SHM: More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S0957417420309234)
 
 ## 3. Wave propagation analysis and general PDEs
-* Physics-informed NN for wave propagation
-* Bayesian-optimized PINNs for parameter estimation
+* Physics-informed Neural Networks + Bayesian-optimization for parameter estimation of PDEs:
 
 ## 4. Material informatics
 * Composite material property estimation using supervised DL.
