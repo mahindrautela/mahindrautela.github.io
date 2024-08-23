@@ -25,9 +25,9 @@ author_profile: true
   <img src="../images/8wcscm.png" width="450" height="300" />
 </p>
   
-* Deep variational filtering for temperature effects in guided wave structural health monitoring
-* Physical-knowledge assisted ML for structural health monitoring.
-* Supervised DL for guided wave SHM
+* Deep variational filtering for temperature effects in guided wave structural health monitoring. More about this work is available here [Paper-1](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11593/1159319/Temperature-compensation-for-guided-waves-using-convolutional-denoising-autoencoders/10.1117/12.2582986.full)
+* Physical-knowledge assisted ML for structural health monitoring. More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S0041624X2100086X)
+* Supervised DL for guided wave SHM: More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S0957417420309234)
 
 ## 3. Wave propagation analysis and general PDEs
 * Physics-informed NN for wave propagation
