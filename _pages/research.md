@@ -22,7 +22,7 @@ author_profile: true
 1. Out-of-distribution detection/Anomaly detection in aerospace composites: Collecting datasets accommodating all possible damage scenarios is cumbersome, costly, and inaccessible for aerospace applications. In this paper, we have proposed two different self-supervised representation learning approaches to learn the distribution of baseline signals. The trained self-supervised learner is used for delamination prediction with an anomaly detection philosophy. We metholdogies like autoencoders, variational autoencoders, PCA-SVM, ICA-SVM are employed. More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S026382232200366X), [Paper-2](https://arxiv.org/abs/2308.05350)
 
 <p align="center">
-  <img src="../images/8wcscm.png" width="450" height="300" />
+  <img src="../images/8wcscm.png" width="450" height="310" />
 </p>
   
 * Deep variational filtering for temperature effects in guided wave structural health monitoring. More about this work is available here [Paper-1](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11593/1159319/Temperature-compensation-for-guided-waves-using-convolutional-denoising-autoencoders/10.1117/12.2582986.full)
