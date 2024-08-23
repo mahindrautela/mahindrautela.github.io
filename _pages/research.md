@@ -32,6 +32,10 @@ author_profile: true
 ## 3. Wave propagation analysis and general PDEs
 * Physics-informed Neural Networks + Bayesian-optimization for parameter estimation of PDEs:
 
+<p align="center">
+  <img src="../images/clarm_lansce.png" width="450" height="260" />
+</p>
+
 ## 4. Material informatics
 * Composite material property estimation using supervised DL.
 * Composite material generation/discovery using generative AI.
