@@ -29,11 +29,11 @@ author_profile: true
 * Physical-knowledge assisted ML for structural health monitoring. More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S0041624X2100086X)
 * Supervised DL for guided wave SHM: More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S0957417420309234)
 
-## 3. Wave propagation analysis and general PDEs
+## 3. Neural surrogate solvers for PDEs.
 * Physics-informed Neural Networks + Bayesian-optimization for parameter estimation of PDEs: PINN is used to solve the partial differential equation (PDE), whereas Bayesian optimization (BO) estimates its parameter. The Bayesian-optimized physics-informed neural network estimates wave velocity associated with wave propagation PDE using a single snapshot observation. We see robust predictions in limited iterations across different runs. More about the work is available here. [Paper1](https://arxiv.org/abs/2312.14064)
 
 <p align="center">
-  <img src="../images/bopinn.png" width="450" height="260" />
+  <img src="../images/bopinn.png" width="450" height="300" />
 </p>
 
 ## 4. Material informatics
