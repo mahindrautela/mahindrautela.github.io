@@ -29,14 +29,14 @@ author_profile: true
 3. Physical-knowledge assisted ML for structural health monitoring. More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S0041624X2100086X)
 4. Supervised DL for guided wave SHM: More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S0957417420309234)
 
-## 3. Neural surrogate solvers for PDEs.
+## Neural surrogate solvers for PDEs.
 * Physics-informed Neural Networks + Bayesian-optimization for parameter estimation of PDEs: PINN is used to solve the partial differential equation (PDE), whereas Bayesian optimization (BO) estimates its parameter. The Bayesian-optimized physics-informed neural network estimates wave velocity associated with wave propagation PDE using a single snapshot observation. We see robust predictions in limited iterations across different runs. More about the work is available here. [Paper1](https://arxiv.org/abs/2312.14064)
 
 <p align="center">
   <img src="../images/bopinn.png" width="450" height="300" />
 </p>
 
-## 4. Material informatics
+## Material informatics
 * Composite material property estimation, composite material generation/discovery using generative AI: AI-accelerated property prediction, discovery, and design of materials have emerged as a new research front with many promising features. There are many investigations on different materials, but no emphasis is placed on composite materials. Among many challenges, the unavailability of datasets for composite materials is a significant roadblock. This is because conducting multiple experiments is costly and cumbersome, and performing simulations is time-taking and demands computational resources.
 * In order to accelerate and scale the prediction, discovery, and design, a deep generation approach is proposed for composite materials. The current research requires limited physical simulations to train a deep generator network. The generator can generate enormous data, eliminating the demerits of both experiments and simulations. The work is novel in terms of the deep generation approach as well as the applications for composite materials. More about this work is here. [Paper-1](https://ieeexplore.ieee.org/abstract/document/9991053), [Paper-2](https://www.tandfonline.com/doi/abs/10.1080/15376494.2021.1982090).
 
@@ -44,12 +44,12 @@ author_profile: true
   <img src="../images/tai_combined.png" width="450" height="320" />
 </p>
 
-## 5. Safety of space habitats
+## Safety of space habitats
 * Leakage estimation in concept space habitats/pressurized habitat systems using adaptive optimization: Long-term extraterrestrial habitats must operate under continuous disruptive conditions arising from extreme environments like meteoroid impacts, extreme temperature fluctuations, galactic cosmic rays, destructive dust, and seismic events. Loss of air or atmospheric leakage from a habitat poses safety challenges that demand proper attention. Such leakage may arise from micro-meteoroid impacts, crack growth, bolt/rivet loosening, and seal deterioration.
-* Leakage estimation in deep space habitats is posed as an inverse problem. A forward pressure-based dynamical model is formulated for atmospheric leakage. Experiments are performed on a small-scaled pressure chamber where different leakage scenarios are emulated and corresponding pressure values are measured. An exponentially-weighted adaptivelyrefined search (EWARS) algorithm is developed and validated for the inverse problem of real-time leakage estimation. [Paper-1](https://www.sciencedirect.com/science/article/pii/S0094576522006750)
+* Leakage estimation in deep space habitats is posed as an inverse problem. A forward pressure-based dynamical model is formulated for atmospheric leakage. Experiments are performed on a small-scaled pressure chamber where different leakage scenarios are emulated and corresponding pressure values are measured. An exponentially-weighted adaptively-refined search (EWARS) algorithm is developed and validated for the inverse problem of real-time leakage estimation. [Paper-1](https://www.sciencedirect.com/science/article/pii/S0094576522006750)
 
 <p align="center">
-  <img src="../images/acta.png" width="450" height="260" />
+  <img src="../images/acta.png" width="600" height="300" />
 </p>
 
 ## 6. Robotics
