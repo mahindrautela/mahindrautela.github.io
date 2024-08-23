@@ -37,7 +37,7 @@ author_profile: true
 </p>
 
 ## 4. Material informatics
-* Composite material property estimation, composite material generation/discovery using generative AI:
+* Composite material property estimation, composite material generation/discovery using generative AI: AI-accelerated property prediction, discovery, and design of materials have emerged as a new research front with many promising features. There are many investigations on different materials, but no emphasis is placed on composite materials. Among many challenges, the unavailability of datasets for composite materials is a significant roadblock. This is because conducting multiple experiments is costly and cumbersome, and performing simulations is time-taking and demands computational resources. In order to accelerate and scale the prediction, discovery, and design, a deep generation approach is proposed for composite materials. The current research requires limited physical simulations to train a deep generator network. The generator can generate enormous data, eliminating the demerits of both experiments and simulations. The work is novel in terms of the deep generation approach as well as the applications for composite materials.
 
 <p align="center">
   <img src="../images/tai_combined.png" width="450" height="300" />
