@@ -37,8 +37,11 @@ author_profile: true
 </p>
 
 ## 4. Material informatics
-* Composite material property estimation using supervised DL.
-* Composite material generation/discovery using generative AI.
+* Composite material property estimation, composite material generation/discovery using generative AI:
+
+<p align="center">
+  <img src="../images/tai_combined.png" width="450" height="300" />
+</p>
 
 ## 5. Safety of space habitats
 * Leakage estimation in concept space habitats/pressurized habitat systems using adaptive optimization.
