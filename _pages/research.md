@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ## <ins>Research projects</ins>
-## Charged particle beam dynamics in particle accelerators
+## Spatiotemporal dynamics of plasma
+* The magnetohydrodynamics is the study of the dynamics of charged fluids in the presence of electromagnetic fields. The applications encompesses natural world (e.g., solar flares, Earth’s magnetosphere interaction with the solar wind) and in technological applications (e.g., spacecraft propulsion, magnetically confined plasma for fusion energy devices such as tokamak reactors). The phenonmenon is challenging because the governing PDEs are non-self adjoint, strongly coupled, highly nonlinear, and characterized by multiple physical phenomena that span a very large range of length- and time-scales.
+  
+## Spatiotemporal charged particle beam dynamics in particle accelerators
 * 6D phase space(x,y,x,px,py,pz) of charged particle bunches evolves under the influence of EM fields along the accelerator. The problem can be thought of as a spatiotemporal dynamical sytem, where the system parameters (like amplitude, phase of RF cavity, magnet strenth, etc.) modulates a charged particle beam. The system has uncertainties in the governing parameters as well as initial distribution of charged particles. The problem is challenging due to uncertainity, high-dimensional parameter space, limited measurements of the beam etc.
 * We investigate different aspects of the problem: estimating forward beam dynamics, inverting the beam dynamics, parameter estimation and control with UQ.
 * In [Paper-1](https://www.nature.com/articles/s41598-024-68944-0), we propose two-step unsupervised deep learning framework named as Conditional Latent Autoregressive Recurrent Model (CLARM) for learning the forward spatiotemporal dynamics. The model can generate phase space at various accelerator modules by sampling and decoding the structured latent space representation. The model also forecasts future states (downstream states) of charged particles from past states (upstream states). More about it on the [project page](https://github.com/lanl/clarm).
