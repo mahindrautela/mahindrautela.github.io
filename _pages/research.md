@@ -58,5 +58,5 @@ author_profile: true
 ## 6. Robotics
 * **Pipe health monitoring robot**:  The pipe health monitoring system based on smart sensors which can be transported inside compressed gas pipes with the help of a conduit crawler robot to determine the extent of anomalies present in the pipeline. The pipe health monitoring system will comprise a sensor network for anomalies detection, a micro-controller for processing the data from various sensor units and a storage unit to store the processed data, and an autonomous platform or robot, to carry these components inside the pipeline. More about the project is [here](https://www.iitk.ac.in/smss/projects/phmr/).
 <p align="center">
-  <img src="../images/phmr.png" width="450" height="250" />
+  <img src="../images/phmr.png" width="450" height="240" />
 </p>
