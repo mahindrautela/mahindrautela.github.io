@@ -57,5 +57,5 @@ author_profile: true
 ## 6. Robotics
 * Pipe health monitoring robot: More about the project is [here](https://www.iitk.ac.in/smss/projects/phmr/).
 <p align="center">
-  <img src="../images/phmr.png" width="450" height="320" />
+  <img src="../images/phmr.png" width="450" height="260" />
 </p>
