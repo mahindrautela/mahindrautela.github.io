@@ -19,7 +19,7 @@ At **LANL**, I am currently working on
 Beyond research, I enjoy staying active through football, cricket, strength training, and running. These activities help me maintain physical fitness and mental clarity, balancing the demands of my academic work. I also have a passion for outdoor adventures, like hiking and cycling, which allow me to recharge and gain new perspectives. Staying active and connected with nature keeps me energized and ready for research challenges.
 
 ## News
-* Aug 26, 2024: One paper is presented at the LINAC'24 conference, Chicago.
+* Aug 26, 2024: One paper is presented at the LINAC'24 conference, Chicago. [here](https://meow.elettra.eu/71/pdf/MOPB090.pdf)
 * Aug 15, 2024: rLEM paper is available on arxiv. [here](https://arxiv.org/abs/2408.07847).
 * July 30, 2024: CLARM paper is accepted for publication in Scientific Reports (Nature) [here](https://www.nature.com/articles/s41598-024-68944-0).
 * June 24, 2024: Received "Prof. Chintakindi V Joga Rao Medal" 🏅 for my PhD thesis (Best Thesis) from the Indian Institute of Science (IISc) .
