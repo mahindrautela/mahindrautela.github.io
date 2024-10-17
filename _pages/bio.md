@@ -29,7 +29,7 @@ redirect_from:
 * Gold and Silver Medal for Excellence in Academics during undergrad: 2014, 2015
 
 ## Roles and responsibilites (Reviewer)
-* SAGE Publishing group: Structural Health Monitoring (SHM)
+* SAGE: Structural Health Monitoring (SHM)
 * Nature: Scientific Reports
 * IEEE: IEEE Transactions of Plasma Science
 * Institute of Physics:  Smart Materials & Structures (SMS), Measurement Science & Technology
