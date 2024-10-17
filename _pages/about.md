@@ -11,7 +11,7 @@ Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory, US.
 
 My research interests majorly incline towards generative models, uncertainty quantification and interpretibility. I have applied scientific ML methods for solving general PDEs, structural health monitoring, wave propagation analysis, material property estimation, discovery and design, particle accelerators, safety, resilience, and cyber-physical testing of smart habitats, robotics for inspection. More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
-Beyond research, I enjoy staying active through football, cricket, strength training, and running. These activities help me maintain physical fitness and mental clarity, balancing the demands of my academic work.
+Beyond research, I enjoy staying active through football, cricket, strength training, and running. These activities help me maintain physical fitness and mental clarity, balancing the demands of my academic work. I like spending time with colleagues outside of work.
 
 ## News
 * Aug 26, 2024: One paper is presented at the LINAC'24 conference, Chicago. [here](https://meow.elettra.eu/71/pdf/MOPB090.pdf)
