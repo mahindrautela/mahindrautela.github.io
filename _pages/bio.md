@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Educational background
-* Visiting PhD Student, Purdue University, 2022 - 2023
-* Ph.D Student, Aerospace Engineering, Indian Institute of Science - Bangalore, 2019 - 2023
+* Visiting PhD Student, Purdue University, Jan 2022 - June 2023
+* Ph.D Student, Aerospace Engineering, Indian Institute of Science - Bangalore, Jan 2019 - June 2023
 * M.S./M.Tech, Aerospace Engineering, Indian Institute of Space Science and Technology (IIST), Trivandrum, 2016 - 2018
 * B.S./B.Tech, Mechanical Engineering (Hons.), ABES Engineering College (AKTU, formerly UPTU), 2011 - 2015
 
@@ -31,6 +31,7 @@ redirect_from:
 ## Roles and responsibilites (Reviewer)
 * SAGE Publishing group: Structural Health Monitoring (SHM)
 * Nature: Scientific Reports
+* IEEE: IEEE Transactions of Plasma Science
 * Institute of Physics:  Smart Materials & Structures (SMS), Measurement Science & Technology
 * Elsevier: Mechanical Systems and Signal Processing (MSSP), International Journal of Adhesion & Adhesives (IJAA), Engineering Structures
 * ASME:  Journal of Non-destructive Evaluation (JNDE)
