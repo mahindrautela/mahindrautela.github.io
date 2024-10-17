@@ -7,16 +7,11 @@ redirect_from:
   - /about.html
 ---
 ## About me
-Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory, US. I earned my Ph.D. in 2023 from the Indian Institute of Science (IISc), with a significant portion of my research conducted at Purdue University as a visiting student. I had the privilege of working under the guidance of [Prof. S. Gopalakrishan](https://scholar.google.com/citations?user=XLLZjaUAAAAJ&hl=en) and [Prof. S. Dyke](https://scholar.google.com/citations?user=d9f_YvcAAAAJ&hl=en). Prior to my doctoral studies, I served as a Research Fellow at the Indian Institute of Technology (IIT), Kanpur, and completed my Master's in 2018 at the Indian Institute of Space Science and Technology (IIST). More about [bio/cv](https://mahindrautela.github.io/bio/).
+Currently, I am a Postdoctoral Researcher at Los Alamos National Laboratory, US. I earned my Ph.D. in 2023 from the Indian Institute of Science (IISc), with a significant portion of my research conducted at Purdue University as a visiting student. I had the privilege of working under the guidance of Prof. S. Gopalakrishan and Prof. S. Dyke. Prior to my doctoral studies, I served as a Research Fellow at the Indian Institute of Technology (IIT), Kanpur, and completed my Master's in 2018 at the Indian Institute of Space Science and Technology (IIST). More about [bio/cv](https://mahindrautela.github.io/bio/).
 
-In my carrer, I have applied scientific ML methods for general **PDEs**, aerospace structures (**structural health monitoring**, **wave propagation analysis**), **material informatics** (material property estimation, discovery and design), **particle accelerators**, space habitats (**safety, resilience, and cyber-physical testing**), high-pressure pipe systems (**robotics** for pipe health monitoring). More about my research projects is available [here](https://mahindrautela.github.io/research/).
+My research interests majorly incline towards generative models, uncertainty quantification and interpretibility. I have applied scientific ML methods for solving general PDEs, structural health monitoring, wave propagation analysis, material property estimation, discovery and design, particle accelerators, safety, resilience, and cyber-physical testing of smart habitats, robotics for inspection. More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
-At **LANL**, I am currently working on 
-* Solving both forward and inverse spatiotemporal dynamical systems, ex: particle accelerators and plasma physics.
-* Uncertainity analysis and quantification for spatiotemporal dynamical system.
-* Generative models, Bayesian formulations and explainable and trustworthy AI.
-
-Beyond research, I enjoy staying active through football, cricket, strength training, and running. These activities help me maintain physical fitness and mental clarity, balancing the demands of my academic work. I also have a passion for outdoor adventures, like hiking and cycling, which allow me to recharge and gain new perspectives. Staying active and connected with nature keeps me energized and ready for research challenges.
+Beyond research, I enjoy staying active through football, cricket, strength training, and running. These activities help me maintain physical fitness and mental clarity, balancing the demands of my academic work.
 
 ## News
 * Aug 26, 2024: One paper is presented at the LINAC'24 conference, Chicago. [here](https://meow.elettra.eu/71/pdf/MOPB090.pdf)
