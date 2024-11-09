@@ -29,7 +29,7 @@ redirect_from:
 
 ## Roles and responsibilites 
 (Reviewer)
-SAGE: SHM; Nature: Scientific Reports; IEEE: IEEE-T-PS; IoP: SMS, MST; Elsevier: MSSP, IJAA, Engineering Structures, NDE; ASME: JNDE; Springer: Transactions of the INAE.
+* SAGE: SHM; Nature: Scientific Reports; IEEE: IEEE-T-PS; IoP: SMS, MST; Elsevier: MSSP, IJAA, Engineering Structures, NDE; ASME: JNDE; Springer: Transactions of the INAE.
 
 (Session Chair)
 * APS 2025: Session: PINNs & ML - II
