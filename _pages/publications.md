@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en)
 
-**Metrics**: #Papers = 22, #Citations = 500, H-index = 10
+**Metrics**: #Papers = 22, #Citations = 501, H-index = 10
 ## Journal articles
 1. **Rautela, M.**, Williams, A., Scheinker, A., 2024. Time-inversion of spatiotemporal beam dynamics using uncertainty-aware latent evolution reversal. *Under Review* (paper/[arxiv](https://arxiv.org/abs/2408.07847)/[code](https://github.com/mahindrautela/rLEM)/[data](https://zenodo.org/records/10819001)/video)
 2. **Rautela, M.**, Williams, A., Scheinker, A., 2024. A conditional latent autoregressive recurrent model for generation and forecasting of beam dynamics in particle accelerators. *Scientific Reports (Nature)* ([paper](https://www.nature.com/articles/s41598-024-68944-0)/[arxiv](https://arxiv.org/abs/2403.13858)/[code](https://github.com/mahindrautela/CLARM)/[data](https://zenodo.org/records/10819001)/video)
