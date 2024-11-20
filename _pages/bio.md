@@ -28,7 +28,7 @@ redirect_from:
 * Gold and Silver Medal for Excellence in Academics during undergrad: 2014, 2015
 
 ## Roles and responsibilites 
-(Reviewer)
+(Reviewer: 30+ articles)
 * SAGE: SHM; Nature: Scientific Reports; IEEE: IEEE-T-PS; IoP: SMS, MST; Elsevier: MSSP, IJAA, Engineering Structures, NDE; ASME: JNDE; Springer: Transactions of the INAE.
 
 (Session Chair)
