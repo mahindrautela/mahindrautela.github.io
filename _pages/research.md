@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## <ins>Research projects</ins>
-## Latent evolution models for spatiotemporal dynamics of plasma
+## Spatiotemporal dynamics of plasma
 * The magnetohydrodynamics is the study of the dynamics of charged fluids in the presence of electromagnetic fields. The phenonmenon is challenging because the governing PDEs are non-self adjoint, strongly coupled, highly nonlinear, and characterized by multiple physical phenomena that span a very large range of length and time-scales.
   
-## Latent evolution models for spatiotemporal dynamics of charged beams in particle accelerators
+## Spatiotemporal dynamics of charged beams in particle accelerators
 * 6D phase space(x,y,x,px,py,pz) of charged particle bunches evolves under the influence of EM fields along the accelerator. The problem of can be thought of as a spatiotemporal dynamical sytem, where the system parameters (like amplitude, phase of RF cavity, magnet strenth, etc.) modulates a charged particle beam.
 * The system has uncertainties in the governing parameters as well as initial distribution of charged particles.
 * The problem is challenging due to uncertainity, high-dimensional parameter space, limited measurements of the beam etc.
