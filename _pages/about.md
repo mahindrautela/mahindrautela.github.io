@@ -13,7 +13,3 @@ My primary research interests lie in generative models, uncertainty quantificati
 
 ## News
 * Dec 2, 2024: CBOL-Tuner paper 📄 is uploaded to arxiv [here](https://arxiv.org/abs/2412.01748).
-* Aug 26, 2024: Presented a paper 📄 at the LINAC'24 conference, Chicago. [here](https://meow.elettra.eu/71/pdf/MOPB090.pdf)
-* Aug 15, 2024: RLEM paper 📄 is available on arxiv. [here](https://arxiv.org/abs/2408.07847).
-* July 30, 2024: CLARM paper 📄 is accepted for publication in Scientific Reports [here](https://www.nature.com/articles/s41598-024-68944-0).
-* June 24, 2024: Received "Prof. Chintakindi V Joga Rao Medal" 🏅 for my PhD thesis (Best Thesis) from the Indian Institute of Science (IISc).
