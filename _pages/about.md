@@ -12,4 +12,5 @@ I am a Postdoctoral Researcher at the Los Alamos National Laboratory. I earned m
 My primary research interests lie in generative models, uncertainty quantification, and interpretability. I apply novel scientific machine learning methods to solve problems in/related to (a) general partial differential equations (PDEs), (b) structural health monitoring, (c) material properties estimation, (d) beam dynamics in particle accelerators, (e) plasma physics, (f) safety and resilience, cyber-physical testing of smart habitats, and (g) robotics for inspection. More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
 ## News
+* Feb 4, 2024: RLEM paper 📄 is accepted for publication in [PR-E](https://journals.aps.org/pre/).
 * Dec 2, 2024: CBOL-Tuner paper 📄 is uploaded to arxiv [here](https://arxiv.org/abs/2412.01748).
