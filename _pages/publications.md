@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en)
 
-**Metrics**: Total #Articles = 23, #Citations ~ 525, H-index = 10, i10-index = 11
+Total #Articles = 23, #Citations ~ 525, H-index = 10, i10-index = 11
 
 ## Journal articles
 1. **Rautela, M.**, Williams, A., Scheinker, A., 2024. Time-inversion of spatiotemporal beam dynamics using uncertainty-aware latent evolution reversal. *Physical Review E* (paper/[arxiv](https://arxiv.org/abs/2408.07847)/[code](https://github.com/mahindrautela/rLEM)/[data](https://zenodo.org/records/10819001)/video)
