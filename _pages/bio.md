@@ -13,7 +13,7 @@ redirect_from:
 * Visiting PhD Student, Mechanical Engineering, Purdue University, Jan 2022 - June 2023.
 * Ph.D Student, Aerospace Engineering, Indian Institute of Science - Bangalore, Jan 2019 - June 2023.
 * M.S./M.Tech, Aerospace Engineering, Indian Institute of Space Science and Technology (IIST), Trivandrum, 2016 - 2018.
-* B.S./B.Tech (Hons.), Mechanical Engineering (Hons.), ABES Engineering College (AKTU, formerly UPTU), 2011 - 2015.
+* B.S./B.Tech (Hons.), Mechanical Engineering, ABES Engineering College (AKTU, formerly UPTU), 2011 - 2015.
 
 ## Work experience
 * Postdoctoral Researcher - Adaptive ML team (Applied Electrodynamics group, AOT), Physical Sciences Division at Los Alamos National Laboratory, July 2023 - Present
