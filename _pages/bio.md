@@ -16,7 +16,7 @@ redirect_from:
 * B.S./B.Tech (Hons.), Mechanical Engineering, ABES Engineering College (AKTU, formerly UPTU), 2011 - 2015.
 
 ## Work experience
-* Postdoctoral Researcher - Adaptive ML team (Applied Electrodynamics group, AOT), Physical Sciences Division at Los Alamos National Laboratory, July 2023 - Present
+* Postdoctoral Researcher - Adaptive ML team (Applied Electrodynamics - AOT), Physical Sciences Division at Los Alamos National Laboratory, July 2023 - Present
 * Project Engineer (Research) - SMSS Lab, Mechanical Engineering, Indian Institute of Technology (IIT) Kanpur, Aug 2018 - Dec. 2018
 
 ## Awards, honors and recognitions
