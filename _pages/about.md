@@ -12,10 +12,10 @@ I am a Postdoctoral Researcher at the Los Alamos National Laboratory. I earned m
 My primary research interests lie in generative models, uncertainty quantification, and interpretability. I apply novel scientific machine learning methods to solve problems in/related to:
 
 - General partial differential equations (PDEs)
-- Structural health monitoring
-- Material properties estimation
-- Beam dynamics in particle accelerators
-- Plasma physics
+- Structural Health Monitoring
+- Material Identification
+- Beam Dynamics in particle accelerators
+- Plasma Dynamics / Fluid Flow
 - Safety and resilience, cyber-physical testing of smart habitats
 - Robotics for inspection
 More about my research projects is available [here](https://mahindrautela.github.io/research/).
