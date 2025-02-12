@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I am a Postdoctoral Researcher at the Los Alamos National Laboratory. I earned my Ph.D. in 2023 from the Indian Institute of Science (IISc), with a significant portion of my research conducted at Purdue University as a visiting student. I have worked on hybrid models for inverse problems as a part of my PhD thesis under the guidance of Prof. S. Gopalakrishan and Prof. S. Dyke. Prior to my doctoral studies, I served as a Research Fellow at the Indian Institute of Technology (IIT), Kanpur, and completed my Master's in 2018 at the Indian Institute of Space Science and Technology (IIST). More about [bio/cv](https://mahindrautela.github.io/bio/).
+I am a Postdoctoral Researcher at the Los Alamos National Laboratory. I earned my Ph.D. in June 2023 from the Indian Institute of Science (IISc), with a significant portion of my research conducted at Purdue University as a visiting student. I have worked on hybrid models for inverse problems as a part of my PhD thesis under the guidance of Prof. S. Gopalakrishan and Prof. S. Dyke. Prior to my doctoral studies, I served as a Research Fellow at the Indian Institute of Technology (IIT), Kanpur, and completed my Master's in 2018 at the Indian Institute of Space Science and Technology (IIST). More about [bio/cv](https://mahindrautela.github.io/bio/).
 
 My primary research interests lie in generative models, uncertainty quantification, and interpretability. I apply novel scientific machine learning methods to solve problems in/related to:
 
