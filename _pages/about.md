@@ -18,6 +18,7 @@ My primary research interests lie in generative models, uncertainty quantificati
 - Plasma Dynamics / Fluid Flow
 - Safety and resilience, cyber-physical testing of smart habitats
 - Robotics for inspection
+
 More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
 ## News
