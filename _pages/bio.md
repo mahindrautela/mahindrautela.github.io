@@ -17,7 +17,8 @@ redirect_from:
 
 ## Work experience
 * *Postdoctoral Researcher* - Adaptive ML team (Applied Electrodynamics - AOT), Physical Sciences Division at Los Alamos National Laboratory, July 2023 - Present
-* *Project Engineer (Research)* - SMSS Lab, Mechanical Engineering, Indian Institute of Technology (IIT) Kanpur, Aug 2018 - Dec. 2018
+* *Project Engineer (Research)* - SMSS Lab, Mechanical Engineering, IIT - Kanpur, Aug 2018 - Dec. 2018
+* *Design Engineer* - Richa Industries Ltd., Faridabad, June 2015 - July 2016.
 
 ## Awards, honors and recognitions
 * Received "Prof. Chintakindi V Joga Rao Medal" 🏅 for my PhD thesis (Best Thesis) from the Indian Institute of Science (IISc): June 2024.
