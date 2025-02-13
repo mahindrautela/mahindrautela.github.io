@@ -16,8 +16,8 @@ redirect_from:
 * *B.S./B.Tech (Hons.)*, Mechanical Engineering, ABES Engineering College (AKTU, formerly UPTU), 2011 - 2015.
 
 ## Work experience
-* *Postdoctoral Researcher* - Adaptive ML team (Applied Electrodynamics - AOT), Physical Sciences Division at Los Alamos National Laboratory, July 2023 - Present
-* *Project Engineer (Research)* - SMSS Lab, Mechanical Engineering, IIT - Kanpur, Aug 2018 - Dec. 2018
+* *Postdoctoral Researcher* - Adaptive ML team (Applied Electrodynamics @ AOT/LANSCE) at Los Alamos National Laboratory, July 2023 - Present.
+* *Project Engineer (Research)* - SMSS Lab, Mechanical Engineering, IIT - Kanpur, Aug 2018 - Dec. 2018.
 * *Design Engineer* - Richa Industries Ltd., Faridabad, June 2015 - July 2016.
 
 ## Awards, honors and recognitions
