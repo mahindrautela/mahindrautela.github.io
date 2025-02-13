@@ -26,7 +26,7 @@ redirect_from:
 * Recipient of Overseas Visiting Doctoral Fellowship (OVDF) from SERB-DST, Government of India. A merit based competitive fellowship to attend visiting doctoral program at Purdue University: 2022-2023 {[Link](https://www.serbonline.in/SERB/ovdf)}
 * Second best poster presentation award for conference paper, organized by Liquid Propulsion System Center (ISRO) & Aeronautical Society of India: 2017
 * Gold and Silver Medal for Excellence in Academics during undergrad: 2014, 2015
-* Selected to participate in the US-India collaboration event at the NSF headquarters during India's Prime Minister state visit to the US. Shared the room with Mr. Modi and Dr. Jill Biden (First Lady): 2023 {[Link1](https://www.purdue.edu/india/features/2023-06-26-purdue-fellows-participate-in-event-with-prime-minister-modi-at-the-nsf.php), [Link 2](https://www.purdue.edu/newsroom/releases/2023/Q2/purdue-organizes-inaugural-meeting-of-the-u.s-india-semiconductor-collaborative-in-washington-d.c-during-state-visit-by-indias-prime-minister-modi.html)}
+* Selected to participate in the US-India collaboration event at the NSF headquarters during India's Prime Minister state visit to the US: 2023 {[Link1](https://www.purdue.edu/india/features/2023-06-26-purdue-fellows-participate-in-event-with-prime-minister-modi-at-the-nsf.php), [Link 2](https://www.purdue.edu/newsroom/releases/2023/Q2/purdue-organizes-inaugural-meeting-of-the-u.s-india-semiconductor-collaborative-in-washington-d.c-during-state-visit-by-indias-prime-minister-modi.html)}
 
 ## Roles and responsibilites 
 (Reviewer: 30+ articles)
