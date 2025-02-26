@@ -22,5 +22,5 @@ My primary research interests lie in generative models, uncertainty quantificati
 More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
 ## News
-* Feb 4, 2024: RLEM paper 📄 is accepted for publication in [PR-E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.025307).
+* Feb 4, 2024: RLEM paper 📄 is accepted for publication in [Physical Review-E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.025307).
 * Dec 2, 2024: CBOL-Tuner paper 📄 is uploaded to arxiv [here](https://arxiv.org/abs/2412.01748).
