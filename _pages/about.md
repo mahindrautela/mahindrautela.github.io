@@ -16,5 +16,6 @@ Overall, my research is dedicated to advancing novel SciML methods for tackling 
 More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
 ## News
-* March 21, 2025: Presenting @ APS 2025 conference in Anaheim, CA on "[PLEM-MHD](https://summit.aps.org/events/MAR-W37/2): Physics-constrained latent evolution model for magnetohyrodynamics."
+* March 21, 2025: Presenting @ APS 2025 conference on "[PLEM-MHD](https://summit.aps.org/events/MAR-W37/2): Physics-constrained latent evolution model for magnetohyrodynamics."
+* March 21, 2025: Chairing the session on "PINNs & ML - II" @ APS 2025 conference in Anaheim, CA.
 * Feb 4, 2025: RLEM paper 📄 is accepted for publication in [Physical Review-E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.025307).
