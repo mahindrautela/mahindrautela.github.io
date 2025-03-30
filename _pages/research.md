@@ -8,20 +8,20 @@ author_profile: true
 ## <ins>Research projects</ins>
 ## Spatiotemporal learning of charged particles beams dynamics (in particle accelerators)
 * 6D phase space (x,y,x,px,py,pz) of charged particle bunches evolves under the influence of EM fields along the accelerator. The problem of can be thought of as a spatiotemporal dynamical sytem, where the system parameters (like amplitude, phase of RF cavity, magnet strenth, etc.) modulates a charged particle beam.
-* In [Paper](https://www.nature.com/articles/s41598-024-68944-0), we propose two-step unsupervised deep learning framework named as *Conditional Latent Autoregressive Recurrent Model (CLARM)* for learning the forward spatiotemporal dynamics.
-* The model can generate phase space at various accelerator modules by sampling and decoding the structured latent space representation.
-* The model also forecasts future states (downstream states) of charged particles from past states (upstream states). More about it on the [project page](https://github.com/lanl/clarm).
+1. In [Paper](https://www.nature.com/articles/s41598-024-68944-0), we propose two-step unsupervised deep learning framework named as *Conditional Latent Autoregressive Recurrent Model (CLARM)* for learning the forward spatiotemporal dynamics.
+   * The model can generate phase space at various accelerator modules by sampling and decoding the structured latent space representation.
+   * The model also forecasts future states (downstream states) of charged particles from past states (upstream states). More about it on the [project page](https://github.com/lanl/clarm).
 
 <p align="center">
   <img src="../images/clarm_lansce.png" width="400" height="250" />
 </p>
 
-* In [Paper](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the **inverse problem** of predicting 6D phase space projections across all upstream sections given on downstream phase space measurements as inputs.
-* The proposed model also captures the *aleatoric uncertainty* of the high-dimensional input data within the latent space.
-* The uncertainity is propagated in the latent space through the temporal learner to estimate the bounds for all upstream predictions, demonstrating the robustness against in-distribution variations in the input data.
+2. In [Paper](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the **inverse problem** of predicting 6D phase space projections across all upstream sections given on downstream phase space measurements as inputs.
+   * The proposed model also captures the *aleatoric uncertainty* of the high-dimensional input data within the latent space.
+   * The uncertainity is propagated in the latent space through the temporal learner to estimate the bounds for all upstream predictions, demonstrating the robustness against in-distribution variations in the input data.
 
-* In [Paper](https://arxiv.org/abs/2412.01748), we use *classifier-pruned Bayesian optimizer* for efficient exploration within a *temporally-structured latent space*.
-* The CBOL-Tuner adaptively search and filter the latent space for optimal solution (i.e., RF settings for minimal beam loss in the accelerator).
+3. In [Paper](https://arxiv.org/abs/2412.01748), we use *classifier-pruned Bayesian optimizer* for efficient exploration within a *temporally-structured latent space*.
+   * The CBOL-Tuner adaptively search and filter the latent space for optimal solution (i.e., RF settings for minimal beam loss in the accelerator).
 
 <p align="center">
   <img src="../images/cbol.png" width="400" height="270" />
@@ -42,22 +42,33 @@ author_profile: true
 4. **Deep surrogate inverse solvers** for guided wave SHM: More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S0957417420309234)
 
 ## Neural surrogate solvers for PDEs.
-* **Physics-informed Neural Networks + Bayesian-optimization** for parameter estimation of PDEs: PINN is used to solve the partial differential equation (PDE), whereas *Bayesian optimization (BO)* estimates its parameter. The Bayesian-optimized *physics-informed neural network* estimates wave velocity associated with wave propagation PDE using a single snapshot observation. We see robust predictions in limited iterations across different runs. More about the work is available here. [Paper1](https://arxiv.org/abs/2312.14064)
+1. **Physics-informed Neural Networks + Bayesian-optimization** for parameter estimation of PDEs.
+   * PINN is used to solve the partial differential equation (PDE), whereas *Bayesian optimization (BO)* estimates its parameter.
+   * The Bayesian-optimized *physics-informed neural network* estimates wave velocity associated with wave propagation PDE using a single snapshot observation.
+   * We see robust predictions in limited iterations across different runs. More about the work is available here. [Paper1](https://arxiv.org/abs/2312.14064)
 
 <p align="center">
   <img src="../images/bopinn.png" width="400" height="250" />
 </p>
 
 ## Material design and discovery
-* **Composite material property estimation, composite material generation/discovery**: AI-accelerated property prediction, discovery, and design of materials have emerged as a new research front with many promising features. There are many investigations on different materials, but no emphasis is placed on composite materials. In order to accelerate and scale the prediction, discovery, and design, a deep generation approach using *variational autoencoders* is proposed for composite materials. The generator can generate enormous data, eliminating the demerits of both experiments and simulations. More about this work is here. [Paper-1](https://ieeexplore.ieee.org/abstract/document/9991053), [Paper-2](https://www.tandfonline.com/doi/abs/10.1080/15376494.2021.1982090).
+1. **Composite material property estimation, composite material generation/discovery**:
+  * AI-accelerated property prediction, discovery, and design of materials have emerged as a new research front with many promising features. There are many investigations on different materials, but no emphasis is placed on composite materials.
+  * In order to accelerate and scale the prediction, discovery, and design, a deep generation approach using *variational autoencoders* is proposed for composite materials.
+  * The generator can generate enormous data, eliminating the demerits of both experiments and simulations.
+  * More about this? Available in these papers: [Paper-1](https://ieeexplore.ieee.org/abstract/document/9991053), [Paper-2](https://www.tandfonline.com/doi/abs/10.1080/15376494.2021.1982090).
 
 <p align="center">
   <img src="../images/tai_combined.png" width="400" height="250" />
 </p>
 
 ## Safety of space habitats
-* **Leakage estimation** in concept space habitats/pressurized habitat systems using *real-time adaptive optimization*: Long-term extraterrestrial habitats must operate under continuous disruptive conditions arising from extreme environments like meteoroid impacts, extreme temperature fluctuations, galactic cosmic rays, destructive dust, and seismic events. Loss of air or atmospheric leakage from a habitat poses safety challenges that demand proper attention. Such leakage may arise from micro-meteoroid impacts, crack growth, bolt/rivet loosening, and seal deterioration.
-* Leakage estimation in deep space habitats is posed as an *inverse problem*. A forward pressure-based dynamical model is formulated for atmospheric leakage. Experiments are performed on a small-scaled pressure chamber where different leakage scenarios are emulated and corresponding pressure values are measured. An exponentially-weighted adaptively-refined search (EWARS) algorithm is developed and validated for the inverse problem of real-time leakage estimation. [Paper-1](https://www.sciencedirect.com/science/article/pii/S0094576522006750)
+1. **Leakage estimation** in concept space habitats/pressurized habitat systems using *real-time adaptive optimization*
+   * Long-term extraterrestrial habitats must operate under continuous disruptive conditions arising from extreme environments like meteoroid impacts, extreme temperature fluctuations, galactic cosmic rays, destructive dust, and seismic events.
+   * Loss of air or atmospheric leakage from a habitat poses safety challenges that demand proper attention. Such leakage may arise from micro-meteoroid impacts, crack growth, bolt/rivet loosening, and seal deterioration.
+   * Leakage estimation in deep space habitats is posed as an *inverse problem*. A forward pressure-based dynamical model is formulated for atmospheric leakage.
+   * Experiments are performed on a small-scaled pressure chamber where different leakage scenarios are emulated and corresponding pressure values are measured. EWARS algorithm is developed and validated for the inverse problem of real-time leakage estimation.
+   * More about it is published in this [Paper](https://www.sciencedirect.com/science/article/pii/S0094576522006750)
 
 <p align="center">
   <img src="../images/acta.png" width="600" height="300" />
