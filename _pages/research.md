@@ -19,7 +19,14 @@ author_profile: true
 * In [Paper](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the **inverse problem** of predicting 6D phase space projections across all upstream sections given on downstream phase space measurements as inputs.
 * The proposed model also captures the *aleatoric uncertainty* of the high-dimensional input data within the latent space.
 * The uncertainity is propagated in the latent space through the temporal learner to estimate the bounds for all upstream predictions, demonstrating the robustness against in-distribution variations in the input data.
-  
+
+* In [Paper](https://arxiv.org/abs/2412.01748), we use classifier-pruned Bayesian optimizer for efficient exploration within a temporally-structured latent space.
+* The CBOL-Tuner adaptively search and filter the latent space for optimal solution (i.e., RF settings for minimal beam loss in the accelerator).
+
+<p align="center">
+  <img src="../images/cbol.png" width="450" height="320" />
+</p>
+
 ## Structural health monitoring
 1. **Out-of-distribution detection/Anomaly detection** in aerospace composites: Collecting datasets accommodating all possible damage scenarios is cumbersome, costly, and inaccessible for aerospace applications. In this paper, we have proposed two different self-supervised representation learning approaches to learn the distribution of baseline signals. The trained self-supervised learner is used for delamination prediction with an anomaly detection philosophy. We metholdogies like autoencoders, variational autoencoders, PCA-SVM, ICA-SVM are employed. More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S026382232200366X), [Paper-2](https://arxiv.org/abs/2308.05350)
 
