@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## <ins>Research projects</ins>
-## Spatiotemporal dynamics of charged particles beams in particle accelerators
+## Spatiotemporal learning of charged particles beams dynamics (in particle accelerators)
 * 6D phase space(x,y,x,px,py,pz) of charged particle bunches evolves under the influence of EM fields along the accelerator. The problem of can be thought of as a spatiotemporal dynamical sytem, where the system parameters (like amplitude, phase of RF cavity, magnet strenth, etc.) modulates a charged particle beam.
 * In [Paper](https://www.nature.com/articles/s41598-024-68944-0), we propose two-step unsupervised deep learning framework named as *Conditional Latent Autoregressive Recurrent Model (CLARM)* for learning the forward spatiotemporal dynamics.
 * The model can generate phase space at various accelerator modules by sampling and decoding the structured latent space representation.
