@@ -20,7 +20,7 @@ author_profile: true
 * The proposed model also captures the *aleatoric uncertainty* of the high-dimensional input data within the latent space.
 * The uncertainity is propagated in the latent space through the temporal learner to estimate the bounds for all upstream predictions, demonstrating the robustness against in-distribution variations in the input data.
 
-* In [Paper](https://arxiv.org/abs/2412.01748), we use classifier-pruned Bayesian optimizer for efficient exploration within a temporally-structured latent space.
+* In [Paper](https://arxiv.org/abs/2412.01748), we use *classifier-pruned Bayesian optimizer* for efficient exploration within a temporally-structured latent space.
 * The CBOL-Tuner adaptively search and filter the latent space for optimal solution (i.e., RF settings for minimal beam loss in the accelerator).
 
 <p align="center">
