@@ -20,7 +20,7 @@ author_profile: true
 * The proposed model also captures the *aleatoric uncertainty* of the high-dimensional input data within the latent space.
 * The uncertainity is propagated in the latent space through the temporal learner to estimate the bounds for all upstream predictions, demonstrating the robustness against in-distribution variations in the input data.
 
-* In [Paper](https://arxiv.org/abs/2412.01748), we use *classifier-pruned Bayesian optimizer* for efficient exploration within a temporally-structured latent space.
+* In [Paper](https://arxiv.org/abs/2412.01748), we use *classifier-pruned Bayesian optimizer* for efficient exploration within a *temporally-structured latent space*.
 * The CBOL-Tuner adaptively search and filter the latent space for optimal solution (i.e., RF settings for minimal beam loss in the accelerator).
 
 <p align="center">
@@ -39,15 +39,14 @@ author_profile: true
 4. **Deep surrogate inverse solvers** for guided wave SHM: More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S0957417420309234)
 
 ## Neural surrogate solvers for PDEs.
-* **Physics-informed Neural Networks + Bayesian-optimization** for parameter estimation of PDEs: PINN is used to solve the partial differential equation (PDE), whereas Bayesian optimization (BO) estimates its parameter. The Bayesian-optimized physics-informed neural network estimates wave velocity associated with wave propagation PDE using a single snapshot observation. We see robust predictions in limited iterations across different runs. More about the work is available here. [Paper1](https://arxiv.org/abs/2312.14064)
+* **Physics-informed Neural Networks + Bayesian-optimization** for parameter estimation of PDEs: PINN is used to solve the partial differential equation (PDE), whereas *Bayesian optimization (BO)* estimates its parameter. The Bayesian-optimized *physics-informed neural network* estimates wave velocity associated with wave propagation PDE using a single snapshot observation. We see robust predictions in limited iterations across different runs. More about the work is available here. [Paper1](https://arxiv.org/abs/2312.14064)
 
 <p align="center">
   <img src="../images/bopinn.png" width="400" height="250" />
 </p>
 
 ## Material design and discovery
-* **Composite material property estimation, composite material generation/discovery**: AI-accelerated property prediction, discovery, and design of materials have emerged as a new research front with many promising features. There are many investigations on different materials, but no emphasis is placed on composite materials. Among many challenges, the unavailability of datasets for composite materials is a significant roadblock. This is because conducting multiple experiments is costly and cumbersome, and performing simulations is time-taking and demands computational resources.
-* In order to accelerate and scale the prediction, discovery, and design, a deep generation approach is proposed for composite materials. The current research requires limited physical simulations to train a deep generator network. The generator can generate enormous data, eliminating the demerits of both experiments and simulations. The work is novel in terms of the deep generation approach as well as the applications for composite materials. More about this work is here. [Paper-1](https://ieeexplore.ieee.org/abstract/document/9991053), [Paper-2](https://www.tandfonline.com/doi/abs/10.1080/15376494.2021.1982090).
+* **Composite material property estimation, composite material generation/discovery**: AI-accelerated property prediction, discovery, and design of materials have emerged as a new research front with many promising features. There are many investigations on different materials, but no emphasis is placed on composite materials. In order to accelerate and scale the prediction, discovery, and design, a deep generation approach using *variational autoencoders* is proposed for composite materials. The generator can generate enormous data, eliminating the demerits of both experiments and simulations. More about this work is here. [Paper-1](https://ieeexplore.ieee.org/abstract/document/9991053), [Paper-2](https://www.tandfonline.com/doi/abs/10.1080/15376494.2021.1982090).
 
 <p align="center">
   <img src="../images/tai_combined.png" width="400" height="250" />
