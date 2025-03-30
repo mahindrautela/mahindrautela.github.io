@@ -13,7 +13,7 @@ author_profile: true
 * The model also forecasts future states (downstream states) of charged particles from past states (upstream states). More about it on the [project page](https://github.com/lanl/clarm).
 
 <p align="center">
-  <img src="../images/clarm_lansce.png" width="500" height="300" />
+  <img src="../images/clarm_lansce.png" width="400" height="250" />
 </p>
 
 * In [Paper](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the **inverse problem** of predicting 6D phase space projections across all upstream sections given on downstream phase space measurements as inputs.
@@ -24,7 +24,7 @@ author_profile: true
 * The CBOL-Tuner adaptively search and filter the latent space for optimal solution (i.e., RF settings for minimal beam loss in the accelerator).
 
 <p align="center">
-  <img src="../images/cbol.png" width="450" height="320" />
+  <img src="../images/cbol.png" width="400" height="250" />
 </p>
 
 ## Structural health monitoring
