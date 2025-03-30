@@ -8,14 +8,17 @@ author_profile: true
 ## <ins>Research projects</ins>
 ## Spatiotemporal dynamics of charged particles beams in particle accelerators
 * 6D phase space(x,y,x,px,py,pz) of charged particle bunches evolves under the influence of EM fields along the accelerator. The problem of can be thought of as a spatiotemporal dynamical sytem, where the system parameters (like amplitude, phase of RF cavity, magnet strenth, etc.) modulates a charged particle beam.
-* We investigate different aspects of the problem: estimating forward beam dynamics, inverting the beam dynamics, parameter estimation and control with UQ.
-* In [Paper-1](https://www.nature.com/articles/s41598-024-68944-0), we propose two-step unsupervised deep learning framework named as **Conditional Latent Autoregressive Recurrent Model (CLARM)** for learning the forward spatiotemporal dynamics. The model can generate phase space at various accelerator modules by sampling and decoding the structured latent space representation. The model also forecasts future states (downstream states) of charged particles from past states (upstream states). More about it on the [project page](https://github.com/lanl/clarm).
+* In [Paper](https://www.nature.com/articles/s41598-024-68944-0), we propose two-step unsupervised deep learning framework named as *Conditional Latent Autoregressive Recurrent Model (CLARM)* for learning the forward spatiotemporal dynamics.
+* The model can generate phase space at various accelerator modules by sampling and decoding the structured latent space representation.
+* The model also forecasts future states (downstream states) of charged particles from past states (upstream states). More about it on the [project page](https://github.com/lanl/clarm).
 
 <p align="center">
   <img src="../images/clarm_lansce.png" width="500" height="300" />
 </p>
 
-* In [Paper-2](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the **inverse problem** of predicting 6D phase space projections across all upstream accelerating sections based on single or multiple downstream phase space measurements as inputs. The proposed model also captures the **aleatoric uncertainty** of the high-dimensional input data within the latent space. The uncertainity is propagated in the latent space through the temporal learner to estimate the bounds for all upstream predictions, demonstrating the robustness against in-distribution variations in the input data.
+* In [Paper](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the **inverse problem** of predicting 6D phase space projections across all upstream sections given on downstream phase space measurements as inputs.
+* The proposed model also captures the *aleatoric uncertainty* of the high-dimensional input data within the latent space.
+* The uncertainity is propagated in the latent space through the temporal learner to estimate the bounds for all upstream predictions, demonstrating the robustness against in-distribution variations in the input data.
   
 ## Structural health monitoring
 1. **Out-of-distribution detection/Anomaly detection** in aerospace composites: Collecting datasets accommodating all possible damage scenarios is cumbersome, costly, and inaccessible for aerospace applications. In this paper, we have proposed two different self-supervised representation learning approaches to learn the distribution of baseline signals. The trained self-supervised learner is used for delamination prediction with an anomaly detection philosophy. We metholdogies like autoencoders, variational autoencoders, PCA-SVM, ICA-SVM are employed. More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S026382232200366X), [Paper-2](https://arxiv.org/abs/2308.05350)
