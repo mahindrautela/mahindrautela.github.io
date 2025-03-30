@@ -24,14 +24,14 @@ author_profile: true
 * The CBOL-Tuner adaptively search and filter the latent space for optimal solution (i.e., RF settings for minimal beam loss in the accelerator).
 
 <p align="center">
-  <img src="../images/cbol.png" width="400" height="250" />
+  <img src="../images/cbol.png" width="400" height="270" />
 </p>
 
 ## Structural health monitoring
 1. **Out-of-distribution detection/Anomaly detection** in aerospace composites: Collecting datasets accommodating all possible damage scenarios is cumbersome, costly, and inaccessible for aerospace applications. In this paper, we have proposed two different self-supervised representation learning approaches to learn the distribution of baseline signals. The trained self-supervised learner is used for delamination prediction with an anomaly detection philosophy. We metholdogies like autoencoders, variational autoencoders, PCA-SVM, ICA-SVM are employed. More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S026382232200366X), [Paper-2](https://arxiv.org/abs/2308.05350)
 
 <p align="center">
-  <img src="../images/8wcscm.png" width="400" height="250" />
+  <img src="../images/8wcscm.png" width="400" height="270" />
 </p>
 
 2. **Deep variational filtering** for temperature effects in guided wave structural health monitoring. More about this work is available here [Paper-1](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11593/1159319/Temperature-compensation-for-guided-waves-using-convolutional-denoising-autoencoders/10.1117/12.2582986.full)
@@ -50,7 +50,7 @@ author_profile: true
 * In order to accelerate and scale the prediction, discovery, and design, a deep generation approach is proposed for composite materials. The current research requires limited physical simulations to train a deep generator network. The generator can generate enormous data, eliminating the demerits of both experiments and simulations. The work is novel in terms of the deep generation approach as well as the applications for composite materials. More about this work is here. [Paper-1](https://ieeexplore.ieee.org/abstract/document/9991053), [Paper-2](https://www.tandfonline.com/doi/abs/10.1080/15376494.2021.1982090).
 
 <p align="center">
-  <img src="../images/tai_combined.png" width="450" height="320" />
+  <img src="../images/tai_combined.png" width="400" height="250" />
 </p>
 
 ## Safety of space habitats
