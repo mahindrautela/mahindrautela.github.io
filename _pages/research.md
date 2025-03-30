@@ -22,7 +22,8 @@ author_profile: true
 
 3. In [Paper](https://arxiv.org/abs/2412.01748), we use *classifier-pruned Bayesian optimizer* for efficient exploration within a *temporally-structured latent space*.
    * The CBOL-Tuner adaptively search and filter the latent space for optimal solution (i.e., RF settings for minimal beam loss in the accelerator).
-
+   * CBOL-Tuner demonstrates superior performance in identifying multiple optimal settings and outperforms alternative global optimization methods.
+  
 <p align="center">
   <img src="../images/cbol.png" width="400" height="270" />
 </p>
