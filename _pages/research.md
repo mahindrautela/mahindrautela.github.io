@@ -16,7 +16,7 @@ author_profile: true
   <img src="../images/clarm_lansce.png" width="400" height="250" />
 </p>
 
-2. In [Paper](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the **inverse problem** of predicting 6D phase space projections across all upstream sections given on downstream phase space measurements as inputs.
+2. In [Paper](https://arxiv.org/abs/2408.07847), we use a reverse latent evolution model (CLARM is a special use case of a more broader LEM) to solve the *inverse problem* of predicting 6D phase space projections across all upstream sections given on downstream phase space measurements as inputs.
    * The proposed model also captures the *aleatoric uncertainty* of the high-dimensional input data within the latent space.
    * The uncertainity is propagated in the latent space through the temporal learner to estimate the bounds for all upstream predictions, demonstrating the robustness against in-distribution variations in the input data.
 
@@ -29,7 +29,8 @@ author_profile: true
 </p>
 
 ## Structural health monitoring
-1. **Out-of-distribution detection/Anomaly detection** in aerospace composites: Collecting datasets accommodating all possible damage scenarios is cumbersome, costly, and inaccessible for aerospace applications.
+1. **Out-of-distribution detection/Anomaly detection** in aerospace composites:
+   * Collecting datasets accommodating all possible damage scenarios is cumbersome, costly, and inaccessible for aerospace applications.
    * We have proposed two different self-supervised representation learning approaches to learn the distribution of baseline signals. 
    * The trained self-supervised learner is used for delamination prediction with an anomaly detection philosophy. We metholdogies like autoencoders, variational autoencoders, PCA-SVM, ICA-SVM are employed.
    * More about this work is available here [Paper-1](https://www.sciencedirect.com/science/article/pii/S026382232200366X), [Paper-2](https://arxiv.org/abs/2308.05350)
@@ -68,7 +69,8 @@ author_profile: true
    * Long-term extraterrestrial habitats must operate under continuous disruptive conditions arising from extreme environments like meteoroid impacts, extreme temperature fluctuations, galactic cosmic rays, destructive dust, and seismic events.
    * Loss of air or atmospheric leakage from a habitat poses safety challenges that demand proper attention. Such leakage may arise from micro-meteoroid impacts, crack growth, bolt/rivet loosening, and seal deterioration.
    * Leakage estimation in deep space habitats is posed as an *inverse problem*. A forward pressure-based dynamical model is formulated for atmospheric leakage.
-   * Experiments are performed on a small-scaled pressure chamber where different leakage scenarios are emulated and corresponding pressure values are measured. EWARS algorithm is developed and validated for the inverse problem of real-time leakage estimation.
+   * Experiments are performed on a small-scaled pressure chamber where different leakage scenarios are emulated and corresponding pressure values are measured.
+   * EWARS algorithm is developed and validated for the inverse problem of real-time leakage estimation.
    * More about it is published in this [Paper](https://www.sciencedirect.com/science/article/pii/S0094576522006750)
 
 <p align="center">
