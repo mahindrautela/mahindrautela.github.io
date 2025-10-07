@@ -24,6 +24,7 @@ Some of areas which I have working/worked on are:
 More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
 ## News
+* Sept 28, 2055: [MORPH](https://www.arxiv.org/abs/2509.21670) paper is released on arxiv.
 * March 21, 2025: Presenting @ APS 2025 conference on "[PLEM-MHD](https://summit.aps.org/events/MAR-W37/2): Physics-constrained latent evolution model for magnetohyrodynamics."
 * March 21, 2025: [Chairing](https://summit.aps.org/events/MAR-W37/2) the session on "PINNs & ML - II" @ APS 2025 conference (Joint March April Meeting) in Anaheim, CA.
 * Feb 4, 2025: RLEM paper 📄 is accepted for publication in [Physical Review-E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.025307).
