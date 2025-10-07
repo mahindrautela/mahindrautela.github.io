@@ -11,7 +11,7 @@ I am a Postdoctoral Researcher at the Los Alamos National Laboratory. I earned m
 
 My broader research interests include solving forward and inverse "spatiotemporal dynamical systems" with machine learning methods. Currently, I am developing
 - [foundational models for physical systems](https://www.arxiv.org/abs/2509.21670).
-- [latent evolution models](https://www.nature.com/articles/s41598-024-68944-0) to learn forward and inverse spatiotemporal dynamics.
+- [latent evolution models](https://www.nature.com/articles/s41598-024-68944-0) to learn forward and inverse spatiotemporal dynamics in particle accelerators.
 
 Some of areas which I have working/worked on are:
 - Charged particle dynamics and Particle accelerators.
