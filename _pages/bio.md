@@ -31,7 +31,7 @@ redirect_from:
 ## Roles and responsibilites 
 (Reviewer: 30+ articles)
 * Journals: SAGE: SHM; Nature: Scientific Reports; IEEE: IEEE-T-PS; IoP: SMS, MST; Elsevier: MSSP, IJAA, Engineering Structures, NDE; ASME: JNDE; Springer: Transactions of the INAE.
-* Conferences: [L4DC2025](https://sites.google.com/umich.edu/l4dc2025/)
+* Conferences: [ICLR Workshops], [ICML], [[L4DC2025](https://sites.google.com/umich.edu/l4dc2025/)
 
 (Session Chair)
 * APS 2025: Session: PINNs & ML - II
