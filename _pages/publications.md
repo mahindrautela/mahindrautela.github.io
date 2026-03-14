@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 ### **Articles:** 25 | **Citations:** ~720 | **H-index:** 13. 
 You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en).
+
 
 ## 2026
 
