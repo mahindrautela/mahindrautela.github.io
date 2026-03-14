@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Articles:** 25 | **Citations:** ~720 | **H-index:** 13. You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en).
+## **Articles:** 25 | **Citations:** ~720 | **H-index:** 13. You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en).
 
 ## 2026
 1. Rautela, M, et al. "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading." AI & PDE: ICLR 2026 Workshop on AI and Partial Differential Equations.
