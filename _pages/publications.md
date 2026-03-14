@@ -7,6 +7,11 @@ author_profile: true
 
 **Articles:** 23 | **Citations:** ~720 | **H-index:** 13. You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en).
 
+## 2026
+1. Rautela, M, et al. "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading." AI & PDE: ICLR 2026 Workshop on AI and Partial Differential Equations.
+2. Rautela, M, et al. "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion." arXiv preprint arXiv:2603.04606 (2026).
+
+
 ## 2025
 
 1. **Rautela, M.**, Williams, A., Scheinker, A. (2025). Time-inversion of spatiotemporal beam dynamics using uncertainty-aware latent evolution reversal. *Physical Review E*, 111(2), 025307. ([paper](https://doi.org/10.1103/PhysRevE.111.025307) / [arxiv](https://arxiv.org/abs/2408.07847) / [code](https://github.com/mahindrautela/rLEM) / [data](https://zenodo.org/records/10819001) / video)
