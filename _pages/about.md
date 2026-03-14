@@ -9,7 +9,7 @@ redirect_from:
 ## About me
 I am a Postdoctoral Researcher at the Los Alamos National Laboratory. I earned my Ph.D. in June 2023 from the IISc - Bangalore, with a significant portion of my research conducted at Purdue University as a visiting student. I have worked on hybrid models for inverse problems as a part of my PhD thesis under the guidance of Prof. S. Gopalakrishan and Prof. S. Dyke. Prior to my doctoral studies, I served as a Research Fellow at the IIT- Kanpur, and completed my Master's in 2018 at the IIST - Trivandrum. More about [bio/cv](https://mahindrautela.github.io/bio/).
 
-My broader research interests include solving forward and inverse "spatiotemporal dynamical systems" with machine learning methods. Currently, I am developing
+My broader research interests include solving *forward, inverse and optimization of spatiotemporal dynamical systems with scientific machine learning methods*. Currently, I am developing
 - [foundational models for physical systems](https://www.arxiv.org/abs/2509.21670).
 - [latent evolution models](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.025307) to learn forward and inverse spatiotemporal dynamics in particle accelerators.
 
