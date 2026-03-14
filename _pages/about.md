@@ -13,7 +13,7 @@ My broader research interests include solving forward and inverse "spatiotempora
 - [foundational models for physical systems](https://www.arxiv.org/abs/2509.21670).
 - [latent evolution models](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.025307) to learn forward and inverse spatiotemporal dynamics in particle accelerators.
 
-Some of areas which I have working/worked on are:
+Some of application areas which I have working/worked on are:
 - Charged particle dynamics and Particle accelerators.
 - Magnetohyrdodynamics and Tokamaks. 
 - Wave Propagation and Structural health monitoring in Aerospace.
