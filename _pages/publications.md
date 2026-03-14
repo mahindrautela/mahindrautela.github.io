@@ -9,13 +9,15 @@ author_profile: true
 You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en).
 
 ## 2026
-1. Rautela, M, et al. "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading." AI & PDE: ICLR 2026 Workshop on AI and Partial Differential Equations.
-2. Rautela, M, et al. "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion." arXiv preprint arXiv:2603.04606 (2026).
+
+1. Rautela, M, et al. "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading." AI & PDE: ICLR 2026 Workshop on AI and Partial Differential Equations. ([paper](https://openreview.net/forum?id=yRC7DqRYsg) / [arxiv](https://arxiv.org/pdf/2603.04354) / [code](https://github.com/lanl/MORPH))
+2. Rautela, M, et al. "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion." arXiv preprint arXiv:2603.04606 (2026). ([paper]() / [arxiv](https://arxiv.org/pdf/2603.04606) / [code](https://github.com/lanl/MORPH))
 
 
 ## 2025
 
 1. **Rautela, M.**, Williams, A., Scheinker, A. (2025). Time-inversion of spatiotemporal beam dynamics using uncertainty-aware latent evolution reversal. *Physical Review E*, 111(2), 025307. ([paper](https://doi.org/10.1103/PhysRevE.111.025307) / [arxiv](https://arxiv.org/abs/2408.07847) / [code](https://github.com/mahindrautela/rLEM) / [data](https://zenodo.org/records/10819001) / video)
+2. **Rautela, M.S.**, Most, A., Mansingh, S., Love, B.C., Scheinker, A., Oyen, D., Debardeleben, N., Lawrence, E. and Biswas, A., 2025. Morph: Pde foundation models with arbitrary data modality. ([paper]() / [arxiv](https://arxiv.org/pdf/2509.21670) / [code](https://github.com/lanl/MORPH))
 
 ## 2024
 
