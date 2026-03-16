@@ -38,4 +38,4 @@ redirect_from:
 
 ### A more detailed CV is available
 
-[Download my CV](/tree/master/files/MahindraSRautela_CV_O1.pdf)
+[Download my CV](/files/MahindraSRautela_CV_O1.pdf)
