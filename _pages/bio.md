@@ -36,4 +36,6 @@ redirect_from:
 (Session Chair)
 * APS 2025: Session: PINNs & ML - II
 
-A more detailed CV is available [here](https://drive.google.com/file/d/1wC4rZOcU8OJLiEbeWwLaN8a0WN3eg1dc/view?usp=sharing).
+### A more detailed CV is available
+
+[Download my CV](/tree/master/files/MahindraSRautela_CV_O1.pdf)
