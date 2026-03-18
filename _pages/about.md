@@ -13,14 +13,6 @@ My broader research interests include solving *forward, inverse and optimization
 - [foundational models for physical systems](https://www.arxiv.org/abs/2509.21670).
 - [latent evolution models](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.025307) to learn forward and inverse spatiotemporal dynamics in particle accelerators.
 
-Some of application areas which I have working/worked on are:
-- Charged particle dynamics and Particle accelerators.
-- Magnetohyrdodynamics and Tokamaks. 
-- Wave Propagation and Structural health monitoring in Aerospace.
-- Material Identification in Aerospace Structures.
-- Resilence and Cyber-physical testing of Smart habitats.
-- Inspection robots.
-
 More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
 ## News
