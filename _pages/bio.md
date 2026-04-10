@@ -30,8 +30,8 @@ redirect_from:
 
 ## Roles and responsibilites 
 (Reviewer: 30+ articles)
-* Journals: Nature Machine Intelligence, SAGE-SHM; Nature: Scientific Reports; IEEE: IEEE-T-PS; IoP: SMS, MST; Elsevier: MSSP, IJAA, Engineering Structures, NDE; ASME: JNDE; Springer: Transactions of the INAE.
-* Conferences: ICML2026, ICLR2026 Workshops, [L4DC2025](https://sites.google.com/umich.edu/l4dc2025/)
+* **Journals**: Nature Machine Intelligence, SAGE-SHM; Nature: Scientific Reports; IEEE: IEEE-T-PS; IoP: SMS, MST; Elsevier: MSSP, IJAA, Engineering Structures, NDE; ASME: JNDE; Springer: Transactions of the INAE.
+* **Conferences**: ICML2026, ICLR2026 Workshops.
 
 (Session Chair)
 * APS 2025: Session: PINNs & ML - II
