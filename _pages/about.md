@@ -16,6 +16,7 @@ My broader research interests include solving *forward, inverse and optimization
 More about my research projects is available [here](https://mahindrautela.github.io/research/).
 
 ## News
+* May 13, 2026: Selected as a Gold Reviewer for the ICML 2026 Conference.
 * March 1, 2026: Paper: Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading is accepted for [ICLR2026 AI&PDE](https://sites.google.com/impatech.edu.br/ai-pde) Workshop.
 * Feb 27, 2026: Paper: PDE Foundation model-accelerated inverse estimation of system parameters in ICF accepted in [HPAI4S](https://sites.google.com/view/hpai4s/) workshop (IPDPS 2026).
 * Sept 28, 2025: [MORPH](https://www.arxiv.org/abs/2509.21670) paper is released on arxiv.
