@@ -13,7 +13,8 @@ permalink: /talks/
   </div>
 </section>
 
-<section class="talks-archive section shell" aria-label="Invited talks">
+<section class="talks-archive section shell" aria-labelledby="talks-list-title">
+  <h2 id="talks-list-title" class="visually-hidden">Selected invited talks</h2>
   <article class="talk-entry">
     <div class="talk-meta"><span>Invited talk</span><span>Santa Fe</span></div>
     <div><h2>Spatiotemporal learning of magnetohydrodynamics using latent-space cross-attention and autoregressive conditional transformers</h2><p>6th International Conference on Data-Driven Plasma Science (ICDDPS-6)</p></div>

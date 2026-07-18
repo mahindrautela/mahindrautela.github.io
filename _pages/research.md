@@ -1,12 +1,23 @@
 ---
-layout: archive
-title: ""
+layout: home
+title: Research
+description: "Research projects by Mahindra S. Rautela in scientific machine learning, latent evolution models, inverse problems, and physical systems."
 permalink: /research/
-author_profile: true
 ---
 
-## <ins>Research projects</ins>
-## Spatiotemporal learning of charged particles beams dynamics (in particle accelerators)
+<section class="archive-hero section-tint">
+  <div class="shell">
+    <p class="section-kicker">Scientific machine learning</p>
+    <h1>Research projects</h1>
+    <p>Data-driven modeling of spatiotemporal physical systems, with an emphasis on forward, inverse, and optimization problems.</p>
+  </div>
+</section>
+
+<section class="research-archive section shell" markdown="1">
+
+<p class="research-family">Latent evolution models</p>
+
+## Spatiotemporal learning of charged-particle beam dynamics (in particle accelerators)
 6D phase space (x,y,x,px,py,pz) of charged particle bunches evolves under the influence of EM fields along the accelerator. The problem of can be thought of as a spatiotemporal dynamical sytem, where the system parameters (like amplitude, phase of RF cavity, magnet strenth, etc.) modulates a charged particle beam.
 1. In [Paper](https://www.nature.com/articles/s41598-024-68944-0), we propose two-step unsupervised deep learning framework named as *Conditional Latent Autoregressive Recurrent Model (CLARM)* for learning the forward spatiotemporal dynamics.
    * The model can generate phase space at various accelerator modules by sampling and decoding the structured latent space representation.
@@ -82,3 +93,5 @@ author_profile: true
 <p align="center">
   <img src="../images/phmr.png" width="450" height="200" />
 </p>
+
+</section>
