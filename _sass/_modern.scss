@@ -22,3 +22,7 @@ body.modern-site{font-family:"Newsreader",Georgia,serif}.wordmark,.hero h1,.sect
 
 /* Enforce the same typography on every dedicated and preserved route. */
 .publication-archive,.research-archive,.talks-archive,body.legacy-page{font-family:"Newsreader",Georgia,serif}.publication-archive h1,.publication-archive h2,.publication-archive h3,.research-archive h1,.research-archive h2,.research-archive h3,.talks-archive h1,.talks-archive h2,.talks-archive h3,.legacy-page h1,.legacy-page h2,.legacy-page h3,.legacy-page .page__title,.legacy-page .archive__item-title{font-family:"Source Serif 4","Source Serif Pro",Georgia,serif}.legacy-page .masthead,.legacy-page .author__urls,.legacy-page .page__footer{font-family:"JetBrains Mono",monospace}
+
+/* Hero statement and supporting research summary. */
+.hero-tagline{margin:1.5rem 0 0;color:$ink;font-family:"Source Serif 4","Source Serif Pro",Georgia,serif;font-size:clamp(1.5rem,2.6vw,2.1rem);line-height:1.2}.hero-tagline+.lede{margin:.65rem 0 1.4rem}
+@media(max-width:760px){.hero-tagline{font-size:1.5rem}}
