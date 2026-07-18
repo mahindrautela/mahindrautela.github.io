@@ -1,10 +1,19 @@
 ---
-layout: archive
-title:
+layout: home
+title: Publications
+description: "Publications by Mahindra S. Rautela in scientific machine learning, particle accelerators, inverse problems, and structural health monitoring."
 permalink: /publications/
-author_profile: true
 ---
 
+<section class="archive-hero section-tint">
+  <div class="shell">
+    <p class="section-kicker">Research output</p>
+    <h1>Publications</h1>
+    <p>Scientific machine learning, particle accelerator modeling, inverse problems, and structural health monitoring.</p>
+  </div>
+</section>
+
+<section class="publication-archive section shell" markdown="1">
 
 **Articles = 25, Citations ~ 720, H-index = 13**. You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en)
 
@@ -75,3 +84,5 @@ author_profile: true
 1. **Rautela, M.** and Bijudas, C. R. (2019). Electromechanical admittance based integrated health monitoring of adhesive bonded beams using surface bonded piezoelectric transducers. *International Journal of Adhesion and Adhesives*, 94, 84-98. ([paper](https://www.sciencedirect.com/science/article/abs/pii/S014374961930106X) / arxiv / code / data / video)
 
 1. **Rautela, M.** and Gopalakrishnan, S. (2019, November). Deep learning frameworks for wave propagation-based damage detection in 1D-waveguides. In Proceedings of *11th International Symposium on NDT in Aerospace* (Vol. 2, pp. 1-11). ([paper](https://www.ndt.net/search/docs.php3?id=25046) / arxiv / data / code / video)
+
+</section>
