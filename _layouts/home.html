@@ -1,0 +1,22 @@
+---
+layout: compress
+---
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>{% include head.html %}{% include head/custom.html %}</head>
+  <body class="modern-site">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="shell nav-wrap">
+        <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Mahindra S. Rautela, home">MSR</a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav"><span>Menu</span></button>
+        <nav id="site-nav" aria-label="Primary navigation">
+          <a href="#about">About</a><a href="#research">Research</a><a href="#news">News</a><a href="#publications">Publications</a><a href="#service">Service</a><a href="{{ '/files/MahindraSRautela_CV_O1.pdf' | relative_url }}">CV</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main">{{ content }}</main>
+    <footer class="site-footer"><div class="shell footer-inner"><p>© {{ site.time | date: '%Y' }} Mahindra S. Rautela</p><p><a href="https://github.com/mahindrautela">GitHub</a> · <a href="https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en">Scholar</a> · Updated {{ site.time | date: '%B %Y' }}</p></div></footer>
+    <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
+  </body>
+</html>

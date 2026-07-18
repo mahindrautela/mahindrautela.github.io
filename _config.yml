@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Mahindra S. Rautela"
 title_separator          : "-"
 name                     : &name "Mahindra Rautela"
-description              : &description "Postdoctoral Researcher"
+description              : &description "Postdoctoral researcher at Los Alamos National Laboratory working on scientific machine learning and spatiotemporal dynamical systems."
 url                      : https://mahindrautela.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mahindrautela/mahindrautela.github.io"
@@ -129,9 +129,12 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Mahindra S. Rautela"
+  links:
+    - https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en
+    - https://orcid.org/0000-0002-2678-9682
+    - https://github.com/mahindrautela
 
 
 # Analytics

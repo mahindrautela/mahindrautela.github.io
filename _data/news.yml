@@ -1,0 +1,14 @@
+- date: 2026-05-13
+  text: "Selected as a Gold Reviewer for the ICML 2026 Conference."
+- date: 2026-03-01
+  text: "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading was accepted to the ICLR 2026 AI & PDE Workshop."
+  url: "https://sites.google.com/impatech.edu.br/ai-pde"
+  link_label: "Workshop"
+- date: 2026-02-27
+  text: "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion was accepted to the HPAI4S workshop at IPDPS 2026."
+  url: "https://sites.google.com/view/hpai4s/"
+  link_label: "Workshop"
+- date: 2025-09-28
+  text: "MORPH: PDE foundation models with arbitrary data modality was released on arXiv."
+  url: "https://arxiv.org/abs/2509.21670"
+  link_label: "MORPH paper"

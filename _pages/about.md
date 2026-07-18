@@ -1,22 +1,30 @@
 ---
 permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: home
+title: "Mahindra S. Rautela — Scientific Machine Learning Researcher"
+description: "Mahindra S. Rautela is a postdoctoral researcher at Los Alamos National Laboratory working on scientific machine learning and spatiotemporal dynamical systems."
+redirect_from: [/about/, /about.html]
 ---
-## About me
-I am a Postdoctoral Researcher at the Los Alamos National Laboratory. I earned my Ph.D. in June 2023 from the IISc - Bangalore, with a significant portion of my research conducted at Purdue University as a visiting student. My [PhD thesis](https://etd.iisc.ac.in/handle/2005/6123), *Hybrid Physics-Data Driven Models for the Solution of Mechanics-Based Inverse Problems*, was completed under the supervision of [Prof. S. Gopalakrishan](https://scholar.google.com/citations?user=XLLZjaUAAAAJ&hl=en) and [Prof. S. Dyke](https://scholar.google.com/citations?user=d9f_YvcAAAAJ&hl=en). Prior to my doctoral studies, I served as a Research Fellow at the IIT- Kanpur, and completed my Master's in 2018 at the IIST - Trivandrum. More about [bio/cv](https://mahindrautela.github.io/bio/).
+<section class="hero shell" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="eyebrow">Scientific machine learning · Los Alamos National Laboratory</p>
+    <h1 id="hero-title">Mahindra S. Rautela</h1>
+    <p class="hero-role">Postdoctoral Researcher</p>
+    <p class="lede">I develop data-driven models for forward, inverse, and optimization problems in spatiotemporal physical systems.</p>
+    <div class="hero-actions"><a class="button primary" href="/files/MahindraSRautela_CV_O1.pdf">Download CV</a><a class="button" href="#publications">View publications</a></div>
+    <ul class="social-list" aria-label="Professional profiles"><li><a href="mailto:mahindrautela@gmail.com">Email</a></li><li><a href="https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en">Google Scholar</a></li><li><a href="https://orcid.org/0000-0002-2678-9682">ORCID</a></li><li><a href="https://github.com/mahindrautela">GitHub</a></li><li><a href="https://www.linkedin.com/in/mahindra-rautela-9743a5a5/">LinkedIn</a></li></ul>
+  </div>
+  <figure class="portrait"><img src="/images/aps_pic.jpg" width="360" height="360" alt="Mahindra S. Rautela" decoding="async"></figure>
+</section>
 
-My broader research interests include solving *forward, inverse and optimization of spatiotemporal dynamical systems with scientific machine learning methods*. Currently, I am developing
-- [foundational models for physical systems](https://www.arxiv.org/abs/2509.21670).
-- [latent evolution models](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.025307) to learn forward and inverse spatiotemporal dynamics in particle accelerators.
+<section id="about" class="section shell"><p class="section-kicker">Background</p><h2>About</h2><div class="about-grid"><div><p>I am a Postdoctoral Researcher at Los Alamos National Laboratory. I earned my Ph.D. from the Indian Institute of Science, Bangalore, in June 2023, with a significant portion of my research conducted at Purdue University as a visiting student.</p><p>My research focuses on scientific machine learning for forward, inverse, and optimization problems in spatiotemporal dynamical systems. Current work includes PDE foundation models, operator learning, and latent evolution models for particle accelerator dynamics.</p></div><div class="mini-columns"><div><h3>Positions</h3><p><strong>Postdoctoral Researcher</strong><br>Los Alamos National Laboratory<br><span>2023–present</span></p><p><strong>Project Engineer (Research)</strong><br>IIT Kanpur<br><span>2018</span></p></div><div><h3>Education</h3><p><strong>Ph.D., Aerospace Engineering</strong><br>IISc Bangalore<br><span>2019–2023</span></p><p><strong>M.S./M.Tech., Aerospace Engineering</strong><br>IIST Trivandrum<br><span>2016–2018</span></p></div></div></div></section>
 
-More about my research projects is available [here](https://mahindrautela.github.io/research/).
+<section id="research" class="section section-tint"><div class="shell"><p class="section-kicker">Current work</p><h2>Research</h2><ul class="tag-list" aria-label="Research interests"><li>Scientific Machine Learning</li><li>PDE Foundation Models</li><li>Neural Operators</li><li>Generative Modeling</li><li>Spatiotemporal Dynamics</li><li>Inverse Problems</li><li>Particle Accelerators</li></ul><div class="research-grid"><article><p class="card-label">Physical systems</p><h3>PDE foundation models</h3><p>Foundation models that learn across data modalities and transfer to physical systems outside the training distribution.</p><a href="https://arxiv.org/abs/2509.21670">Read the MORPH paper →</a></article><article><p class="card-label">Accelerator science</p><h3>Latent evolution models</h3><p>Forward and inverse modeling, uncertainty quantification, and tuning of charged-particle beam dynamics.</p><a href="https://doi.org/10.1103/PhysRevE.111.025307">Read the Physical Review E paper →</a></article><article><p class="card-label">Inverse problems</p><h3>Physics–data models</h3><p>Machine-learning surrogate solvers and optimization methods for mechanics-based inverse problems.</p><a href="/research/">Explore all research projects →</a></article></div></div></section>
 
-## News
-* May 13, 2026: Selected as a Gold Reviewer for the ICML 2026 Conference.
-* March 1, 2026: Paper: Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading is accepted for [ICLR2026 AI&PDE](https://sites.google.com/impatech.edu.br/ai-pde) Workshop.
-* Feb 27, 2026: Paper: PDE Foundation model-accelerated inverse estimation of system parameters in ICF accepted in [HPAI4S](https://sites.google.com/view/hpai4s/) workshop (IPDPS 2026).
-* Sept 28, 2025: [MORPH](https://www.arxiv.org/abs/2509.21670) paper is released on arxiv.
+<section id="news" class="section shell"><p class="section-kicker">Latest</p><h2>News</h2><ol class="timeline">{% for item in site.data.news %}<li><time datetime="{{ item.date | date: '%Y-%m-%d' }}"><span>{{ item.date | date: '%b' }}</span>{{ item.date | date: '%Y' }}</time><p>{{ item.text }} {% if item.url %}<a href="{{ item.url }}">{{ item.link_label }} →</a>{% endif %}</p></li>{% endfor %}</ol></section>
+
+<section id="publications" class="section section-tint"><div class="shell"><p class="section-kicker">Research output</p><div class="section-heading"><h2>Recent publications</h2><a href="/publications/">Complete archive (25 articles) →</a></div><div class="filters" role="group" aria-label="Filter publications"><button class="active" type="button" data-filter="all" aria-pressed="true">All</button><button type="button" data-filter="Foundation models" aria-pressed="false">Foundation models</button><button type="button" data-filter="Particle accelerators" aria-pressed="false">Particle accelerators</button></div><div class="publication-list">{% for pub in site.data.publications %}<article class="publication" data-topic="{{ pub.topic }}"><div class="pub-meta"><span>{{ pub.year }}</span><span>{{ pub.type }}</span></div><div><p class="venue">{{ pub.venue }}</p><h3>{{ pub.title }}</h3><p class="authors">{{ pub.authors | replace: 'Mahindra S. Rautela', '<strong>Mahindra S. Rautela</strong>' | replace: 'Mahindra Rautela', '<strong>Mahindra Rautela</strong>' }}</p><div class="pub-links">{% if pub.paper %}<a href="{{ pub.paper }}">Paper</a>{% endif %}{% if pub.arxiv %}<a href="{{ pub.arxiv }}">arXiv</a>{% endif %}{% if pub.code %}<a href="{{ pub.code }}">Code</a>{% endif %}</div></div></article>{% endfor %}</div></div></section>
+
+<section id="service" class="section shell"><p class="section-kicker">Community</p><h2>Service & recognition</h2><div class="service-grid"><article><h3>Reviewing</h3><p>Reviewer for more than 30 articles across journals including <em>Nature Machine Intelligence</em>, <em>Scientific Reports</em>, and IEEE, IoP, Elsevier, ASME, and Springer publications.</p><p>Gold Reviewer, ICML 2026; reviewer for ICLR 2026 workshops.</p></article><article><h3>Recognition</h3><p>Prof. Chintakindi V. Joga Rao Medal for best Ph.D. thesis, Indian Institute of Science, 2024.</p><p>Overseas Visiting Doctoral Fellowship, SERB-DST, 2022–2023.</p></article><article><h3>Talks</h3><p>Invited talks on generative modeling, particle accelerator dynamics, and data-driven plasma science.</p><a href="/talks/">View selected talks →</a></article></div></section>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Mahindra S. Rautela","jobTitle":"Postdoctoral Researcher","affiliation":{"@type":"Organization","name":"Los Alamos National Laboratory"},"url":"https://mahindrautela.github.io/","sameAs":["https://orcid.org/0000-0002-2678-9682","https://github.com/mahindrautela","https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en"]}</script>

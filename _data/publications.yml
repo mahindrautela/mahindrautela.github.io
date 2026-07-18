@@ -1,0 +1,58 @@
+- year: 2026
+  type: Workshop
+  topic: Foundation models
+  title: "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading"
+  authors: "Mahindra Rautela et al."
+  venue: "AI & PDE, ICLR 2026 Workshop"
+  paper: "https://openreview.net/forum?id=yRC7DqRYsg"
+  arxiv: "https://arxiv.org/abs/2603.04354"
+  code: "https://github.com/lanl/MORPH"
+- year: 2026
+  type: Workshop
+  topic: Foundation models
+  title: "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion"
+  authors: "Mahindra Rautela et al."
+  venue: "HPAI4S, IPDPS 2026 Workshop"
+  arxiv: "https://arxiv.org/abs/2603.04606"
+  code: "https://github.com/lanl/MORPH"
+- year: 2025
+  type: Preprint
+  topic: Foundation models
+  title: "MORPH: PDE foundation models with arbitrary data modality"
+  authors: "Mahindra S. Rautela, A. Most, S. Mansingh, B. C. Love, A. Scheinker, D. Oyen, N. Debardeleben, E. Lawrence, A. Biswas"
+  venue: "arXiv"
+  arxiv: "https://arxiv.org/abs/2509.21670"
+  code: "https://github.com/lanl/MORPH"
+- year: 2025
+  type: Conference
+  topic: Particle accelerators
+  title: "Advancing accelerator virtual beam diagnostics through Latent Evolution Modeling"
+  authors: "Mahindra Rautela and A. Scheinker"
+  venue: "NAPAC 2025"
+  paper: "https://prebys.physics.ucdavis.edu/NAPAC-25/proceedings/doi/jacow-napac2025-mop002/index.html"
+  arxiv: "https://arxiv.org/abs/2602.22618"
+- year: 2025
+  type: Journal
+  topic: Particle accelerators
+  title: "Time-inversion of spatiotemporal beam dynamics using uncertainty-aware latent evolution reversal"
+  authors: "Mahindra Rautela, A. Williams, A. Scheinker"
+  venue: "Physical Review E 111, 025307"
+  paper: "https://doi.org/10.1103/PhysRevE.111.025307"
+  arxiv: "https://arxiv.org/abs/2408.07847"
+  code: "https://github.com/mahindrautela/rLEM"
+- year: 2024
+  type: Journal
+  topic: Particle accelerators
+  title: "A conditional latent autoregressive recurrent model for generation and forecasting of beam dynamics in particle accelerators"
+  authors: "Mahindra Rautela, A. Williams, A. Scheinker"
+  venue: "Scientific Reports 14, 18157"
+  paper: "https://www.nature.com/articles/s41598-024-68944-0"
+  arxiv: "https://arxiv.org/abs/2403.13858"
+  code: "https://github.com/mahindrautela/CLARM"
+- year: 2024
+  type: Preprint
+  topic: Particle accelerators
+  title: "CBOL-Tuner: Classifier-pruned Bayesian optimization to explore temporally structured latent spaces for particle accelerator tuning"
+  authors: "Mahindra Rautela, A. Williams, A. Scheinker"
+  venue: "Under review"
+  arxiv: "https://arxiv.org/abs/2412.01748"
