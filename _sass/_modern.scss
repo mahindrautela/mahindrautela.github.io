@@ -19,3 +19,6 @@ body.modern-site{background:#f7f5f0;color:#1a1714;font-family:"DM Sans",system-u
 
 /* Scholarly type system: editorial serif text with precise mono metadata. */
 body.modern-site{font-family:"Newsreader",Georgia,serif}.wordmark,.hero h1,.section h2,.archive-hero h1,.publication-archive h2,.publication h3,.talk-entry h2,.mini-columns h3,.research-grid h3,.service-grid h3{font-family:"Source Serif 4","Source Serif Pro",Georgia,serif}.modern-site nav a,.eyebrow,.section-kicker,.card-label,.venue,.button,.tag-list li,.timeline time,.pub-meta,.pub-links a,.filters button,.talk-meta,.research-family,.site-footer{font-family:"JetBrains Mono",monospace}
+
+/* Enforce the same typography on every dedicated and preserved route. */
+.publication-archive,.research-archive,.talks-archive,body.legacy-page{font-family:"Newsreader",Georgia,serif}.publication-archive h1,.publication-archive h2,.publication-archive h3,.research-archive h1,.research-archive h2,.research-archive h3,.talks-archive h1,.talks-archive h2,.talks-archive h3,.legacy-page h1,.legacy-page h2,.legacy-page h3,.legacy-page .page__title,.legacy-page .archive__item-title{font-family:"Source Serif 4","Source Serif Pro",Georgia,serif}.legacy-page .masthead,.legacy-page .author__urls,.legacy-page .page__footer{font-family:"JetBrains Mono",monospace}
