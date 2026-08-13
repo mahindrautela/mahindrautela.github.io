@@ -49,7 +49,7 @@ permalink: /mentoring/
   <article class="mentee-entry">
     <div class="mentee-profile">
       <h2>Amelia Chen</h2>
-      <p>Undergraduate at Tulsa University</p>
+      <p>Undergrad at Tulsa University</p>
     </div>
     <div class="mentee-timeline">
       <p class="card-label">Timeline</p>
