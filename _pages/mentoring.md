@@ -21,6 +21,10 @@ permalink: /mentoring/
       <h2>Ruben McWilliams</h2>
       <p>Now at Sandia National Lab</p>
     </div>
+    <div class="mentee-timeline">
+      <p class="card-label">Timeline</p>
+      <p>Summer 2026</p>
+    </div>
     <div>
       <p class="card-label">Mentoring topic</p>
       <p>Knowledge distillation in PDE surrogates</p>
@@ -32,6 +36,10 @@ permalink: /mentoring/
       <h2>Rupasree Dey</h2>
       <p>Ph.D. student at Colorado State University</p>
     </div>
+    <div class="mentee-timeline">
+      <p class="card-label">Timeline</p>
+      <p>Summer 2026</p>
+    </div>
     <div>
       <p class="card-label">Mentoring topic</p>
       <p>Inference-time sampling of generative models</p>
@@ -42,6 +50,10 @@ permalink: /mentoring/
     <div class="mentee-profile">
       <h2>Amelia Chen</h2>
       <p>Undergraduate at Tulsa University</p>
+    </div>
+    <div class="mentee-timeline">
+      <p class="card-label">Timeline</p>
+      <p>Summer 2026</p>
     </div>
     <div>
       <p class="card-label">Mentoring topic</p>
