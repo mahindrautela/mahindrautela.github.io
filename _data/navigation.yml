@@ -10,6 +10,8 @@ main:
     url: /publications/
   - title: "Talks"
     url: /talks/
+  - title: "Mentoring"
+    url: /mentoring/
     
  # - title: "Portfolio"
  #   url: /portfolio/
