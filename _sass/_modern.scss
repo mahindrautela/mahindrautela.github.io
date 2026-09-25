@@ -27,3 +27,7 @@ body.modern-site{font-family:"Newsreader",Georgia,serif}.wordmark,.hero h1,.sect
 
 /* Hero statement and supporting research summary. */
 .hero-tagline{margin:1.5rem 0 0;color:$ink;font-family:"Source Serif 4","Source Serif Pro",Georgia,serif;font-size:1.35rem;font-weight:700;line-height:1.25}.hero-tagline+.lede{margin:.65rem 0 1.4rem}
+
+/* Software and data cards. */
+.resources-archive{max-width:1000px}.resource-section+.resource-section{margin-top:4rem;padding-top:3rem;border-top:1px solid $line}.resource-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}.resource-grid--two{grid-template-columns:repeat(2,1fr)}.resource-card{padding:1.4rem;border:1px solid $line;border-radius:3px;background:#fff}.resource-card h3{margin:.1rem 0 .5rem;font-family:"Source Serif 4","Source Serif Pro",Georgia,serif;font-size:1.1rem;font-weight:400}.resource-card p:not(.card-label){margin:.25rem 0 .8rem;color:#4a4540;font-size:.9rem;line-height:1.55}.resource-card>a{font-family:"JetBrains Mono",monospace;font-size:.75rem;font-weight:500}.software-highlight{border-bottom:1px solid $line}
+@media(max-width:760px){.resource-grid,.resource-grid--two{grid-template-columns:1fr}.resource-section+.resource-section{margin-top:3rem;padding-top:2.5rem}}

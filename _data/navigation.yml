@@ -8,6 +8,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Software & Data"
+    url: /software-data/
   - title: "Talks"
     url: /talks/
   - title: "Mentoring"
