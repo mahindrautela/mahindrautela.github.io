@@ -21,14 +21,14 @@ permalink: /publications/
 
 1. **Rautela, M. S.**, & Scheinker, A. Foundation Models for Particle Accelerators. *Accepted at NeurIPS 2026*.
 2. **Rautela, M. S.**, & Scheinker, A. A Foundation Model Approach to Particle Accelerator Operational Data. In *2nd ICML Workshop on Foundation Models for Structured Data*. 2026. ([paper](https://icml.cc/virtual/2026/71454))
-3. Rautela, M, et al. "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading." AI & PDE: ICLR 2026 Workshop on AI and Partial Differential Equations. ([paper](https://openreview.net/forum?id=yRC7DqRYsg) / [arxiv](https://arxiv.org/pdf/2603.04354) / [code](https://github.com/lanl/MORPH))
-4. Rautela, M, et al. "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion." arXiv preprint arXiv:2603.04606 (2026). ([arxiv](https://arxiv.org/pdf/2603.04606) / [code](https://github.com/lanl/MORPH))
+3. Rautela, M, et al. "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading." *AI & PDE: ICLR 2026 Workshop on AI and Partial Differential Equations*. ([paper](https://openreview.net/forum?id=yRC7DqRYsg) / [arxiv](https://arxiv.org/pdf/2603.04354) / [code](https://github.com/lanl/MORPH))
+4. Rautela, M, et al. "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion." *IPDPS Workshops 2026*. ([arxiv](https://arxiv.org/pdf/2603.04606) / [code](https://github.com/lanl/MORPH))
 
 
 ## 2025
 
 1. **Rautela, M.S.**, Most, A., Mansingh, S., Love, B.C., Scheinker, A., Oyen, D., Debardeleben, N., Lawrence, E. and Biswas, A., 2025. Morph: Pde foundation models with arbitrary data modality. ([arxiv](https://arxiv.org/pdf/2509.21670) / [code](https://github.com/lanl/MORPH))
-2. **M. Rautela** and A. Scheinker, "Advancing accelerator virtual beam diagnostics through Latent Evolution Modeling: An integrated solution to forward, inverse, tuning, and UQ problems", in Proc. NAPAC2025, Sacramento, CA, USA, Aug. 2025, pp. 38-41. doi:10.18429/JACoW-NAPAC2025-MOP002. ([paper](https://prebys.physics.ucdavis.edu/NAPAC-25/proceedings/doi/jacow-napac2025-mop002/index.html)/[arxiv](https://arxiv.org/abs/2602.22618))
+2. **M. Rautela** and A. Scheinker, "Advancing accelerator virtual beam diagnostics through Latent Evolution Modeling: An integrated solution to forward, inverse, tuning, and UQ problems", in *Proc. NAPAC2025*, Sacramento, CA, USA, Aug. 2025, pp. 38-41. doi:10.18429/JACoW-NAPAC2025-MOP002. ([paper](https://prebys.physics.ucdavis.edu/NAPAC-25/proceedings/doi/jacow-napac2025-mop002/index.html)/[arxiv](https://arxiv.org/abs/2602.22618))
 3. **Rautela, M.**, Williams, A., Scheinker, A. (2025). Time-inversion of spatiotemporal beam dynamics using uncertainty-aware latent evolution reversal. *Physical Review E*, 111(2), 025307. ([paper](https://doi.org/10.1103/PhysRevE.111.025307) / [arxiv](https://arxiv.org/abs/2408.07847) / [code](https://github.com/mahindrautela/rLEM) / [data](https://zenodo.org/records/10819001) / video)
 
 ## 2024
