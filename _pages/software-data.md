@@ -21,19 +21,16 @@ permalink: /software-data/
     </div>
     <div class="resource-grid">
       <article class="resource-card">
-        <p class="card-label">Foundation models</p>
         <h3>MORPH</h3>
         <p>PDE foundation models with arbitrary data modality.</p>
         <a href="https://github.com/lanl/MORPH">GitHub →</a>
       </article>
       <article class="resource-card">
-        <p class="card-label">Particle accelerators</p>
         <h3>CLARM</h3>
         <p>Generation and forecasting of spatiotemporal beam dynamics.</p>
         <a href="https://github.com/mahindrautela/CLARM">GitHub →</a>
       </article>
       <article class="resource-card">
-        <p class="card-label">Inverse problems</p>
         <h3>BOPINN</h3>
         <p>Bayesian-optimized PINNs for parameter estimation.</p>
         <a href="https://github.com/mahindrautela/BOPINN">GitHub →</a>
@@ -42,23 +39,19 @@ permalink: /software-data/
   </div>
 
   <div class="resource-section">
-    <div class="section-heading">
-      <h2>Datasets</h2>
-      <a href="https://huggingface.co/mahindrautela">Hugging Face profile →</a>
-    </div>
+    <h2>Datasets</h2>
     <div class="resource-grid resource-grid--two">
       <article class="resource-card">
-        <p class="card-label">Particle accelerators</p>
         <h3>CPBD-LANSCE</h3>
         <p>Charged-particle beam dynamics data from LANSCE.</p>
         <a href="https://huggingface.co/datasets/mahindrautela/CPBD_LANSCE">Hugging Face →</a>
       </article>
       <article class="resource-card">
-        <p class="card-label">Dataset collection</p>
-        <h3>All datasets</h3>
-        <p>Scientific machine learning datasets on Hugging Face.</p>
-        <a href="https://huggingface.co/mahindrautela">Browse datasets →</a>
+        <h3>GW-TCW</h3>
+        <p>Guided-wave measurements from a tapered composite wing.</p>
+        <a href="https://huggingface.co/datasets/mahindrautela/GW-TCW">Hugging Face →</a>
       </article>
     </div>
+    <p class="resource-profile-link"><a href="https://huggingface.co/mahindrautela">View all datasets on Hugging Face →</a></p>
   </div>
 </section>
