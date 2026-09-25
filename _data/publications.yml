@@ -1,4 +1,10 @@
 - year: 2026
+  type: Conference
+  topic: Foundation models
+  title: "Foundation Models for Particle Accelerators"
+  authors: "Mahindra S. Rautela and A. Scheinker"
+  venue: "Accepted at NeurIPS 2026"
+- year: 2026
   type: Workshop
   topic: Foundation models
   title: "A Foundation Model Approach to Particle Accelerator Operational Data"
