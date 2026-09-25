@@ -1,6 +1,13 @@
 - year: 2026
   type: Workshop
   topic: Foundation models
+  title: "A Foundation Model Approach to Particle Accelerator Operational Data"
+  authors: "Mahindra S. Rautela and A. Scheinker"
+  venue: "2nd ICML Workshop on Foundation Models for Structured Data"
+  paper: "https://icml.cc/virtual/2026/71454"
+- year: 2026
+  type: Workshop
+  topic: Foundation models
   title: "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading"
   authors: "Mahindra Rautela et al."
   venue: "AI & PDE, ICLR 2026 Workshop"
@@ -54,5 +61,5 @@
   topic: Particle accelerators
   title: "CBOL-Tuner: Classifier-pruned Bayesian optimization to explore temporally structured latent spaces for particle accelerator tuning"
   authors: "Mahindra Rautela, A. Williams, A. Scheinker"
-  venue: "Under review"
+  venue: "Accepted at AAAI Fall Symposium 2026"
   arxiv: "https://arxiv.org/abs/2412.01748"
