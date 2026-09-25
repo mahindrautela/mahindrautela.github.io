@@ -15,7 +15,7 @@ permalink: /publications/
 
 <section class="publication-archive section shell" markdown="1">
 
-**Articles = 27, Citations ~ 720, H-index = 13**. You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en)
+**Articles = 28, Citations ~ 814, H-index = 13**. You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en)
 
 ## 2026
 
