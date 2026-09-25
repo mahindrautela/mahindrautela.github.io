@@ -14,7 +14,7 @@ body.modern-site{background:#f7f5f0;color:#1a1714;font-family:"DM Sans",system-u
 .hero h1,.section h2,.archive-hero h1{font-size:30px}.publication-archive h2{font-size:1.5rem}
 
 /* Tighter navigation items leave more space after the wordmark. */
-@media(min-width:761px){.modern-site nav{gap:1.75rem}}
+@media(min-width:761px){.modern-site nav{gap:1.5rem}}
 .talks-archive{max-width:1000px}.talk-entry{display:grid;grid-template-columns:150px 1fr;gap:2rem;padding:1.5rem 0;border-bottom:1px solid $line}.talk-entry:first-child{border-top:1px solid $line}.talk-meta{display:flex;flex-direction:column;color:$muted;font-size:.75rem;letter-spacing:.04em;text-transform:uppercase}.talk-entry h2{margin:0 0 .4rem;font-family:"DM Serif Display",Georgia,serif;font-size:1.25rem;font-weight:400;line-height:1.35}.talk-entry p{margin:0;color:#4a4540;font-size:.9rem}.talk-entry:hover{background:rgba(255,255,255,.45)}
 @media(max-width:760px){.talk-entry{grid-template-columns:1fr;gap:.5rem}.talk-meta{flex-direction:row;gap:1rem}}
 .mentoring-archive{max-width:1000px}.mentee-entry{display:grid;grid-template-columns:minmax(220px,1fr) minmax(120px,.65fr) 2fr;gap:2rem;padding:1.5rem 0;border-bottom:1px solid $line}.mentee-entry:first-of-type{border-top:1px solid $line}.mentee-entry h2{margin:0 0 .3rem;font-family:"DM Serif Display",Georgia,serif;font-size:1.25rem;font-weight:400;line-height:1.35}.mentee-entry p{margin:0;color:#4a4540;font-size:.9rem}.mentee-entry .card-label{margin-bottom:.35rem;color:$accent;font-size:.72rem}.mentee-profile p{color:$muted}.mentee-timeline>p:last-child{white-space:nowrap}.mentee-entry:hover{background:rgba(255,255,255,.45)}
