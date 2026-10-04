@@ -4,7 +4,8 @@
   title: "Sim+Real: Joint Simulation - Experiment Training Improves Balanced Prediction in Physical Systems"
   authors: "Mahindra Rautela, A. Scheinker, A. Biswas, D. Oyen, N. DeBardeleben, E. Lawrence"
   venue: "NeurIPS 2026 FMTS Workshop (Oral)"
-  paper: "https://arxiv.org/abs/2610.01974"
+  arxiv: "https://arxiv.org/abs/2610.01974"
+  code: "https://mahindrautela.github.io/morph/"
 - year: 2026
   type: Conference
   topic: Foundation models
