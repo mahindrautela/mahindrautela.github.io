@@ -1,4 +1,11 @@
 - year: 2026
+  type: Workshop
+  topic: Foundation models
+  title: "Sim+Real: Joint Simulation - Experiment Training Improves Balanced Prediction in Physical Systems"
+  authors: "Mahindra Rautela, A. Scheinker, A. Biswas, D. Oyen, N. DeBardeleben, E. Lawrence"
+  venue: "NeurIPS 2026 FMTS Workshop (Oral)"
+  paper: "https://arxiv.org/abs/2610.01974"
+- year: 2026
   type: Conference
   topic: Foundation models
   title: "Foundation Models for Particle Accelerators"
