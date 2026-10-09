@@ -34,7 +34,7 @@ The 6D phase space (x, y, z, p<sub>x</sub>, p<sub>y</sub>, p<sub>z</sub>) of cha
    * CBOL-Tuner demonstrates superior performance in identifying multiple optimal settings and outperforms alternative global optimization methods.
 
 <p align="center">
-  <img src="/images/cbol.png" width="400" height="270" alt="CBOL-Tuner optimization workflow in a temporally structured latent space" />
+  <img src="/images/cbol.png" width="400" height="305" alt="CBOL-Tuner optimization workflow in a temporally structured latent space" />
 </p>
 
 </section>
