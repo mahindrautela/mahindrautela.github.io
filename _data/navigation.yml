@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Bio & CV"
     url: /bio/
-  - title: "Research"
-    url: /research/
+  - title: "Hybrid"
+    url: /hybrid/
   - title: "Publications"
     url: /publications/
   - title: "Software & Data"

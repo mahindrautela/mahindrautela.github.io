@@ -1,14 +1,15 @@
 ---
 layout: home
-title: Research
-description: "Research projects by Mahindra S. Rautela in scientific machine learning, inverse problems, and physical systems."
-permalink: /research/
+title: Hybrid
+description: "Hybrid physics-data driven models by Mahindra S. Rautela for inverse problems and physical systems."
+permalink: /hybrid/
+redirect_from: [/research/]
 ---
 
 <section class="archive-hero section-tint">
   <div class="shell">
     <p class="section-kicker">Scientific machine learning</p>
-    <h1>Research projects</h1>
+    <h1>Hybrid physics-data driven models</h1>
     <p>Data-driven modeling of spatiotemporal physical systems, with an emphasis on forward, inverse, and optimization problems.</p>
   </div>
 </section>
