@@ -15,15 +15,16 @@ permalink: /publications/
 
 <section class="publication-archive section shell" markdown="1">
 
-**Articles = 30, First-authored articles = 27, Citations ~ 814, H-index = 13**. You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en)
+**Articles = 31, First-authored articles = 28, Citations ~ 814, H-index = 13**. You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en)
 
 ## 2026
 
-1. **Rautela, M.**, et al. (2026). Sim+Real: Joint Simulation - Experiment Training Improves Balanced Prediction in Physical Systems. *NeurIPS 2026 FMTS Workshop (Oral)*. ([arxiv](https://arxiv.org/abs/2610.01974) / [code](https://mahindrautela.github.io/morph/))
-2. **Rautela, M. S.**, & Scheinker, A. Foundation Models for Particle Accelerators. *Accepted at NeurIPS 2026*.
-3. **Rautela, M. S.**, & Scheinker, A. A Foundation Model Approach to Particle Accelerator Operational Data. In *2nd ICML Workshop on Foundation Models for Structured Data*. 2026. ([paper](https://icml.cc/virtual/2026/71454))
-4. **Rautela, M.**, et al. "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading." *AI & PDE: ICLR 2026 Workshop on AI and Partial Differential Equations*. ([paper](https://openreview.net/forum?id=yRC7DqRYsg) / [arxiv](https://arxiv.org/pdf/2603.04354) / [code](https://github.com/lanl/MORPH))
-5. **Rautela, M.**, et al. "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion." *IPDPS Workshops 2026*. ([arxiv](https://arxiv.org/pdf/2603.04606) / [code](https://github.com/lanl/MORPH))
+1. **Rautela, M.**, et al. (2026). Physics Foundation Models for Efficient Control of Fluid Flows. *ML4PS Workshop*.
+2. **Rautela, M.**, et al. (2026). Sim+Real: Joint Simulation - Experiment Training Improves Balanced Prediction in Physical Systems. *NeurIPS 2026 FMTS Workshop (Oral)*. ([arxiv](https://arxiv.org/abs/2610.01974) / [code](https://mahindrautela.github.io/morph/))
+3. **Rautela, M. S.**, & Scheinker, A. Foundation Models for Particle Accelerators. *Accepted at NeurIPS 2026*.
+4. **Rautela, M. S.**, & Scheinker, A. A Foundation Model Approach to Particle Accelerator Operational Data. In *2nd ICML Workshop on Foundation Models for Structured Data*. 2026. ([paper](https://icml.cc/virtual/2026/71454))
+5. **Rautela, M.**, et al. "Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading." *AI & PDE: ICLR 2026 Workshop on AI and Partial Differential Equations*. ([paper](https://openreview.net/forum?id=yRC7DqRYsg) / [arxiv](https://arxiv.org/pdf/2603.04354) / [code](https://github.com/lanl/MORPH))
+6. **Rautela, M.**, et al. "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion." *IPDPS Workshops 2026*. ([arxiv](https://arxiv.org/pdf/2603.04606) / [code](https://github.com/lanl/MORPH))
 
 
 ## 2025
