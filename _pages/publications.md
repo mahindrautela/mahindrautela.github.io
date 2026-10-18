@@ -15,7 +15,12 @@ permalink: /publications/
 
 <section class="publication-archive section shell" markdown="1">
 
-**Articles = 31, First-authored articles = 28, Citations ~ 814, H-index = 13**. You can find the articles on my [Google Scholar profile](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en)
+**31** published articles<br>
+**28** first-authored articles<br>
+**~814** citations<br>
+**13** h-index
+
+View my complete publication record on [Google Scholar](https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en).
 
 ## 2026
 
