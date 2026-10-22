@@ -24,7 +24,7 @@ View my complete publication record on [Google Scholar](https://scholar.google.c
 
 ## 2026
 
-1. **Rautela, M.**, et al. (2026). Physics Foundation Models for Efficient Control of Fluid Flows. *ML4PS Workshop*.
+1. **Rautela, M.**, et al. (2026). Physics Foundation Models for Efficient Control of Fluid Flows. *ML4PS Workshop*. ([arxiv](https://arxiv.org/abs/2610.15173))
 2. **Rautela, M.**, et al. (2026). Sim+Real: Joint Simulation - Experiment Training Improves Balanced Prediction in Physical Systems. *NeurIPS 2026 FMTS Workshop (Oral)*. ([arxiv](https://arxiv.org/abs/2610.01974) / [code](https://mahindrautela.github.io/morph/))
 3. **Rautela, M. S.**, & Scheinker, A. Foundation Models for Particle Accelerators. *Accepted at NeurIPS 2026*.
 4. **Rautela, M. S.**, & Scheinker, A. A Foundation Model Approach to Particle Accelerator Operational Data. In *2nd ICML Workshop on Foundation Models for Structured Data*. 2026. ([paper](https://icml.cc/virtual/2026/71454))
