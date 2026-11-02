@@ -12,7 +12,7 @@ redirect_from: [/about/, /about.html]
     <p class="hero-role">Postdoctoral Researcher</p>
     <p class="hero-tagline">Teaching physics to machines.</p>
     <p class="lede">I develop scientific machine learning methods to solve forward and inverse problems in high-dimensional spatiotemporal dynamical systems.</p>
-    <div class="hero-actions"><a class="button primary" href="/files/MahindraSRautela_CV_O1.pdf">Download CV</a><a class="button" href="#publications">View publications</a></div>
+    <div class="hero-actions"><a class="button" href="/files/MahindraSRautela_CV_O1.pdf">Download CV</a><a class="button" href="#publications">View publications</a></div>
     <ul class="social-list" aria-label="Professional profiles"><li><a href="mailto:mahindrautela@gmail.com">Email</a></li><li><a href="https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en">Google Scholar</a></li><li><a href="https://orcid.org/0000-0002-2678-9682">ORCID</a></li><li><a href="https://github.com/mahindrautela">GitHub</a></li><li><a href="https://www.linkedin.com/in/mahindra-rautela-9743a5a5/">LinkedIn</a></li></ul>
   </div>
   <figure class="portrait"><img src="/images/aps_pic.jpg" width="360" height="360" alt="Mahindra S. Rautela" decoding="async"></figure>
