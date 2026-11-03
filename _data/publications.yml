@@ -19,6 +19,7 @@
   title: "Foundation Models for Particle Accelerators"
   authors: "Mahindra S. Rautela and A. Scheinker"
   venue: "Accepted at NeurIPS 2026"
+  arxiv: "https://arxiv.org/abs/2611.02031"
 - year: 2026
   type: Workshop
   topic: Foundation models
