@@ -1,5 +1,12 @@
 - year: 2026
   type: Workshop
+  topic: Flow matching
+  title: "One Trajectory, Two Requirements: Accuracy and Local Stability in Euler Sampling for Flow-Matching Policies"
+  authors: "Mahindra Rautela"
+  venue: "CoRL 2026 TAG Workshop"
+  paper: "https://openreview.net/forum?id=GpQjVyrHdQ"
+- year: 2026
+  type: Workshop
   topic: Foundation models
   title: "Physics Foundation Models for Efficient Control of Fluid Flows"
   authors: "Mahindra Rautela, Shaifalee Saxena, Alexander Scheinker"
