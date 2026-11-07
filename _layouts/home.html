@@ -17,10 +17,10 @@ layout: compress
     </header>
     <main id="main">{{ content }}</main>
     <footer class="site-footer">
-      <div class="shell footer-advising">
+      {% unless page.url == '/mentoring/' %}<div class="shell footer-advising">
         <p class="footer-advising__title"><a href="{{ '/mentoring/' | relative_url }}">Students &amp; Advising</a></p>
-        <p>I am open to supervising PhD and masters students. If you're interested in working with me, feel free to get in touch. <a href="{{ '/mentoring/' | relative_url }}">Visit the mentoring page →</a></p>
-      </div>
+        <p>I am open to supervising PhD and masters students. If you're interested in working with me, feel free to get in touch. <a href="{{ '/mentoring/' | relative_url }}">Mentoring →</a></p>
+      </div>{% endunless %}
       <div class="shell footer-inner"><p>© {{ site.time | date: '%Y' }} Mahindra S. Rautela</p><p><a href="https://github.com/mahindrautela">GitHub</a> · <a href="https://scholar.google.com/citations?user=gPEssbQAAAAJ&hl=en">Scholar</a> · Updated {{ site.time | date: '%B %Y' }}</p></div>
     </footer>
     <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
