@@ -13,6 +13,12 @@ permalink: /mentoring/
   </div>
 </section>
 
+<section class="mentoring-invitation section shell" aria-labelledby="advising-title">
+  <p class="section-kicker">Students &amp; Advising</p>
+  <h2 id="advising-title">Work with me</h2>
+  <p>I am open to supervising PhD and masters students. If you're interested in working with me, <a href="mailto:mahindrautela@gmail.com">feel free to get in touch</a>.</p>
+</section>
+
 <section class="mentoring-archive section shell" aria-labelledby="mentees-title">
   <h2 id="mentees-title" class="visually-hidden">Mentees</h2>
 
