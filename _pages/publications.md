@@ -19,7 +19,7 @@ permalink: /publications/
 
 ## 2026
 
-1. **Rautela, M.** (2026). One Trajectory, Two Requirements: Accuracy and Local Stability in Euler Sampling for Flow-Matching Policies. *CoRL 2026 TAG Workshop*. ([paper](https://openreview.net/forum?id=GpQjVyrHdQ))
+1. **Rautela, M.** (2026). One Trajectory, Two Requirements: Accuracy and Local Stability in Euler Sampling for Flow-Matching Policies. *CoRL 2026 TAG Workshop*. ([arxiv](https://arxiv.org/pdf/2611.13311))
 2. **Rautela, M.**, et al. (2026). Physics Foundation Models for Efficient Control of Fluid Flows. *ML4PS Workshop*. ([arxiv](https://arxiv.org/abs/2610.15173))
 3. **Rautela, M.**, et al. (2026). Sim+Real: Joint Simulation - Experiment Training Improves Balanced Prediction in Physical Systems. *NeurIPS 2026 FMTS Workshop (Oral)*. ([arxiv](https://arxiv.org/abs/2610.01974) / [code](https://mahindrautela.github.io/morph/))
 4. **Rautela, M. S.**, & Scheinker, A. Foundation Models for Particle Accelerators. *Accepted at NeurIPS 2026*. ([arxiv](https://arxiv.org/abs/2611.02031))
