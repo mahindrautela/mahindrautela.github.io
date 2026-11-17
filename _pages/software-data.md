@@ -21,6 +21,11 @@ permalink: /software-data/
     </div>
     <div class="resource-grid">
       <article class="resource-card">
+        <h3>SensOFormer</h3>
+        <p>Denoising masked transformer foundation models for multivariate particle-accelerator sensor signals.</p>
+        <a href="https://github.com/lanl/sensoformer">GitHub →</a>
+      </article>
+      <article class="resource-card">
         <h3>MORPH</h3>
         <p>PDE foundation models with arbitrary data modality.</p>
         <a href="https://github.com/lanl/MORPH">GitHub →</a>
